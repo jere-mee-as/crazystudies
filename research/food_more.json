@@ -1,0 +1,116 @@
+[
+ {
+  "field": "Food & lifestyle",
+  "kind": "Tiny trick, huge effect",
+  "verdict": "dead",
+  "claim": "Did you know… women who eat breakfast cereal are more likely to have boys?",
+  "studies": [
+   {
+    "cite": "Mathews et al. (2008), Proceedings of the Royal Society B",
+    "finding": "In 740 British women, 56% in the highest preconception energy-intake third had boys versus about 45% in the lowest third.",
+    "verdict": "A published, peer-reviewed analysis, later disputed on statistical grounds.",
+    "url": "https://doi.org/10.1098/rspb.2008.0105"
+   },
+   {
+    "cite": "Young et al. (2009), Proceedings of the Royal Society B",
+    "finding": "Critique argued that the original tested 132 foods in two periods and that the cereal result is a multiple-testing false positive.",
+    "verdict": "Reanalysis: about 13 chance hits expected among 264 tests.",
+    "url": "https://doi.org/10.1098/rspb.2008.1405"
+   }
+  ]
+ },
+ {
+  "field": "Food & lifestyle",
+  "kind": "Mind over matter",
+  "verdict": "dead",
+  "claim": "Did you know… sugar makes children hyperactive?",
+  "studies": [
+   {
+    "cite": "Wolraich et al. (1995), JAMA",
+    "finding": "A meta-analysis of 16 double-blind, placebo-controlled trials found no effect of sugar on children's behaviour or cognition.",
+    "verdict": "Pooled trials show no measurable effect of sugar on behaviour.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7474248/"
+   },
+   {
+    "cite": "Hoover & Milich (1994), Journal of Abnormal Child Psychology",
+    "finding": "Mothers told their sons had been given sugar rated them more hyperactive, although every boy had received a sugar-free placebo.",
+    "verdict": "Parental expectation, not sugar, shaped what they saw.",
+    "url": "https://doi.org/10.1007/BF02168088"
+   }
+  ]
+ },
+ {
+  "field": "Food & lifestyle",
+  "kind": "The miracle pill",
+  "verdict": "dead",
+  "claim": "Did you know… vitamin D pills prevent cancer and heart disease in healthy adults?",
+  "studies": [
+   {
+    "cite": "Manson et al. (2019), New England Journal of Medicine",
+    "finding": "In 25,871 adults followed 5.3 years, vitamin D3 at 2,000 IU daily did not lower invasive cancer or major cardiovascular events.",
+    "verdict": "Hazard ratios near 1 (0.96 and 0.97) for both primary endpoints.",
+    "url": "https://read.qxmd.com/read/30415629/vitamin-d-supplements-and-prevention-of-cancer-and-cardiovascular-disease"
+   }
+  ]
+ },
+ {
+  "field": "Food & lifestyle",
+  "kind": "Backwards medicine",
+  "verdict": "shaky",
+  "claim": "Did you know… eating too little salt is linked to more heart attacks and deaths?",
+  "studies": [
+   {
+    "cite": "O'Donnell et al. (2014), New England Journal of Medicine",
+    "finding": "In 101,945 people in 17 countries, both very high and very low estimated sodium intake were associated with more deaths and cardiovascular events.",
+    "verdict": "Observational J-shaped curve; estimates from single urine samples remain contested.",
+    "url": "https://doi.org/10.1056/NEJMoa1311889"
+   },
+   {
+    "cite": "Sacks et al. (2001), New England Journal of Medicine",
+    "finding": "In 412 people eating each of three sodium levels for 30 days, lower sodium steadily lowered blood pressure.",
+    "verdict": "Trial supports lowering salt for blood pressure; heart outcomes not tested.",
+    "url": "https://doi.org/10.1056/NEJM200101043440101"
+   }
+  ]
+ },
+ {
+  "field": "Food & lifestyle",
+  "kind": "The miracle pill",
+  "verdict": "shaky",
+  "claim": "Did you know… fish oil capsules prevent heart attacks?",
+  "studies": [
+   {
+    "cite": "GISSI-Prevenzione Investigators (1999), Lancet",
+    "finding": "In 11,324 recent heart attack survivors, 1 gram daily of n-3 fatty acids cut death, heart attack and stroke by about 10 to 20%.",
+    "verdict": "Positive result in survivors of a recent heart attack.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10465168/"
+   },
+   {
+    "cite": "ASCEND Study Collaborative Group (2018), New England Journal of Medicine",
+    "finding": "In 15,480 people with diabetes, fish oil capsules did not reduce serious vascular events versus olive oil over 7.4 years.",
+    "verdict": "Null in people with diabetes and no prior vascular disease.",
+    "url": "https://doi.org/10.1056/NEJMoa1804989"
+   }
+  ]
+ },
+ {
+  "field": "Food & lifestyle",
+  "kind": "Everyday killers",
+  "verdict": "misread",
+  "claim": "Did you know… processed meat is in the same cancer category as cigarettes?",
+  "studies": [
+   {
+    "cite": "IARC Monograph Working Group (2015), Lancet Oncology",
+    "finding": "A working group classed processed meat as carcinogenic and red meat as probably carcinogenic to humans.",
+    "verdict": "Same category means equally certain, not equally dangerous.",
+    "url": "https://doi.org/10.1016/S1470-2045(15)00444-1"
+   },
+   {
+    "cite": "Johnston et al. (2019), Annals of Internal Medicine",
+    "finding": "A guideline panel suggested adults continue current red and processed meat intake, calling the evidence low-certainty and the advice weak.",
+    "verdict": "Contested: low-certainty evidence behind a weak recommendation.",
+    "url": "https://doi.org/10.7326/M19-1621"
+   }
+  ]
+ }
+]

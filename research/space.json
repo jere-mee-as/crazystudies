@@ -1,0 +1,210 @@
+[
+ {
+  "field": "Space & deep time",
+  "kind": "Aliens among us",
+  "verdict": "shaky",
+  "claim": "Did you know… a Martian meteorite appeared to contain fossilized bacteria?",
+  "studies": [
+   {
+    "cite": "McKay et al. (1996), Science",
+    "finding": "Carbonate globules, magnetite grains, organic molecules and tiny rod shapes in meteorite ALH84001 were presented as possible traces of ancient Martian life.",
+    "verdict": "Each feature has since been explained without biology; no convincing evidence of life.",
+    "url": "https://doi.org/10.1126/science.273.5277.924"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Aliens among us",
+  "verdict": "shaky",
+  "claim": "Did you know… the clouds of Venus may contain a gas made by life?",
+  "studies": [
+   {
+    "cite": "Greaves et al. (2020), Nature Astronomy",
+    "finding": "Radio telescopes detected an absorption line attributed to phosphine in the Venusian clouds, a gas with no known non-biological source there.",
+    "verdict": "Original calibration questioned; later telescopes and reanalyses disagree about whether any signal exists.",
+    "url": "https://doi.org/10.1038/s41550-020-1174-4"
+   },
+   {
+    "cite": "Villanueva et al. (2021), Nature Astronomy",
+    "finding": "A reanalysis of the same observations found no phosphine, and noted a nearby sulfur dioxide line could mimic the feature.",
+    "verdict": "Greaves et al. replied that a signal remains; the dispute is unresolved.",
+    "url": "https://doi.org/10.1038/s41550-021-01422-z"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Aliens among us",
+  "verdict": "shaky",
+  "claim": "Did you know… the first interstellar visitor could be an alien light sail?",
+  "studies": [
+   {
+    "cite": "Bialy & Loeb (2018), The Astrophysical Journal Letters",
+    "finding": "A thin sheet pushed by sunlight could explain why 'Oumuamua sped up slightly as it left the Sun's vicinity.",
+    "verdict": "Most astronomers favor a natural origin; hydrogen outgassing offers one such explanation.",
+    "url": "https://doi.org/10.3847/2041-8213/aaeda8"
+   },
+   {
+    "cite": "Bergner & Seligman (2023), Nature",
+    "finding": "Hydrogen trapped in water ice by radiation, then released on heating, could supply the observed push.",
+    "verdict": "Plausible natural account; other natural explanations still compete.",
+    "url": "https://arxiv.org/abs/2303.13698"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Aliens among us",
+  "verdict": "shaky",
+  "claim": "Did you know… a star dimmed so oddly that astronomers raised alien megastructures?",
+  "studies": [
+   {
+    "cite": "Boyajian et al. (2016), Monthly Notices of the Royal Astronomical Society",
+    "finding": "Citizen scientists spotted a star whose brightness dipped deeply and irregularly, unlike typical stellar behavior.",
+    "verdict": "The megastructure idea circulated widely; it is disfavored but no explanation covers everything.",
+    "url": "https://doi.org/10.1093/mnras/stw218"
+   },
+   {
+    "cite": "Boyajian et al. (2018), The Astrophysical Journal Letters",
+    "finding": "New dips dimmed blue light more than red, which an opaque object cannot do.",
+    "verdict": "Points to dust, though the dust's origin remains open.",
+    "url": "https://doi.org/10.3847/2041-8213/aaa405"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Rewrite physics",
+  "verdict": "dead",
+  "claim": "Did you know… the Large Hadron Collider glimpsed a particle nobody ordered?",
+  "studies": [
+   {
+    "cite": "CMS Collaboration (2016), Physical Review Letters",
+    "finding": "A search of 8 and 13 TeV collisions found a modest excess of photon pairs near 750 GeV.",
+    "verdict": "Not a particle; chance fluctuation.",
+    "url": "https://arxiv.org/abs/1606.04093"
+   },
+   {
+    "cite": "CMS Collaboration (2017), Physics Letters B",
+    "finding": "With more 13 TeV data, a search for high-mass photon pairs saw no significant excess.",
+    "verdict": "The bump vanished with more data, after many theory papers.",
+    "url": "https://arxiv.org/abs/1609.02507"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Rewrite physics",
+  "verdict": "dead",
+  "claim": "Did you know… a lead compound was announced as a room-temperature superconductor?",
+  "studies": [
+   {
+    "cite": "Lee, Kim & Kwon (2023), arXiv preprint",
+    "finding": "A copper-doped lead apatite was reported as a superconductor at room temperature and ambient pressure, with partial levitation as evidence.",
+    "verdict": "Not superconducting; purer samples are insulators.",
+    "url": "https://arxiv.org/abs/2307.12008"
+   },
+   {
+    "cite": "Zhu et al. (2023), Matter",
+    "finding": "A copper sulfide impurity undergoes a transition near 104 C that mimics the resistance drop and heat-capacity anomaly.",
+    "verdict": "Explained the apparent signal; no zero resistance was ever shown.",
+    "url": "https://arxiv.org/abs/2308.04353"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Rewrite physics",
+  "verdict": "shaky",
+  "claim": "Did you know… dark matter may rise and fall with the seasons?",
+  "studies": [
+   {
+    "cite": "Bernabei et al. (2013), European Physical Journal C",
+    "finding": "A sodium iodide detector in Italy recorded a yearly modulation in low-energy events over seven cycles, matching the pattern expected from dark matter.",
+    "verdict": "Not reproduced by other sodium iodide experiments; origin unexplained.",
+    "url": "https://doi.org/10.1140/epjc/s10052-013-2648-7"
+   },
+   {
+    "cite": "COSINE-100 Collaboration (2025), Science Advances",
+    "finding": "Six years of data from a similar detector showed no annual modulation of the kind DAMA/LIBRA reported.",
+    "verdict": "Challenges the DAMA/LIBRA claim at over 3 sigma.",
+    "url": "https://doi.org/10.1126/sciadv.adv6503"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Spooky correlations",
+  "verdict": "shaky",
+  "claim": "Did you know… distant icy bodies point to an unseen ninth planet?",
+  "studies": [
+   {
+    "cite": "Batygin & Brown (2016), The Astronomical Journal",
+    "finding": "Six distant Kuiper belt objects share clustered orbits, which a planet roughly ten Earth masses far beyond Neptune could explain.",
+    "verdict": "No planet has been seen; clustering may be an observing artifact.",
+    "url": "https://doi.org/10.3847/0004-6256/151/2/22"
+   },
+   {
+    "cite": "Shankman et al. (2017), The Astronomical Journal",
+    "finding": "After accounting for survey biases, a dedicated survey found the distant objects' orbits consistent with random orientation.",
+    "verdict": "Challenges the clustering; the authors of the claim dispute this.",
+    "url": "https://arxiv.org/abs/1706.05348"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Life finds a way",
+  "verdict": "standing",
+  "claim": "Did you know… a tiny island human species lived until 50,000 years ago?",
+  "studies": [
+   {
+    "cite": "Brown et al. (2004), Nature",
+    "finding": "Skeletal remains from Liang Bua cave on Flores were assigned to a new, small-bodied, small-brained hominin species.",
+    "verdict": "Disease explanations such as Down syndrome were rejected; species status stands.",
+    "url": "https://doi.org/10.1038/nature02999"
+   },
+   {
+    "cite": "Sutikna et al. (2016), Nature",
+    "finding": "Revised stratigraphy dated the youngest bones to about 60,000 years ago, much earlier than first reported.",
+    "verdict": "Revised the date, not the species.",
+    "url": "https://doi.org/10.1038/nature17179"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Life finds a way",
+  "verdict": "standing",
+  "claim": "Did you know… a new human lineage was identified from one finger bone?",
+  "studies": [
+   {
+    "cite": "Krause et al. (2010), Nature",
+    "finding": "Mitochondrial DNA from a juvenile's finger bone in a Siberian cave belonged to a hominin lineage distinct from Neanderthals and modern humans.",
+    "verdict": "Confirmed by nuclear genomes and later fossils; Denisovans are established.",
+    "url": "https://doi.org/10.1038/nature08976"
+   },
+   {
+    "cite": "Reich et al. (2010), Nature",
+    "finding": "Nuclear DNA showed the Denisovans were related to Neanderthals and contributed genes to present-day Melanesians.",
+    "verdict": "Replicated; Denisovan ancestry is found in many living populations.",
+    "url": "https://doi.org/10.1038/nature09710"
+   }
+  ]
+ },
+ {
+  "field": "Space & deep time",
+  "kind": "Rewrite physics",
+  "verdict": "standing",
+  "claim": "Did you know… the Moon is wreckage from a planet that hit Earth?",
+  "studies": [
+   {
+    "cite": "Canup & Asphaug (2001), Nature",
+    "finding": "Simulations showed that a Mars-sized body striking the early Earth could eject enough material to form the Moon.",
+    "verdict": "Leading explanation; the Moon's Earth-like isotopes remain a puzzle.",
+    "url": "https://doi.org/10.1038/35089010"
+   }
+  ]
+ }
+]

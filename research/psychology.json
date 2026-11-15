@@ -1,0 +1,266 @@
+[
+ {
+  "field": "Psychology",
+  "verdict": "dead",
+  "claim": "Did you know… standing like Wonder Woman for two minutes raises your testosterone?",
+  "studies": [
+   {
+    "cite": "Carney, Cuddy & Yap (2010), Psychological Science",
+    "finding": "Two minutes in expansive poses was reported to raise testosterone, lower cortisol, and increase risk-taking relative to contracted poses.",
+    "verdict": "Cited as the origin of the claim; later work did not hold it up.",
+    "url": "https://doi.org/10.1177/0956797610383437"
+   },
+   {
+    "cite": "Ranehill et al. (2015), Psychological Science",
+    "finding": "A larger replication found higher self-reported power after expansive poses, but no hormone or behavioral differences.",
+    "verdict": "Feelings only; hormone and behavior effects absent.",
+    "url": "https://doi.org/10.1177/0956797614553946"
+   }
+  ],
+  "kind": "Tiny trick, huge effect"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "dead",
+  "claim": "Did you know… resisting a plate of cookies leaves you with less willpower afterward?",
+  "studies": [
+   {
+    "cite": "Baumeister, Bratslavsky, Muraven & Tice (1998), Journal of Personality and Social Psychology",
+    "finding": "Participants who resisted tempting chocolates gave up sooner on an unsolvable puzzle, which was read as depleted self-control.",
+    "verdict": "Foundational ego depletion study; the effect has not survived large replications.",
+    "url": "https://doi.org/10.1037/0022-3514.74.5.1252"
+   },
+   {
+    "cite": "Hagger et al. (2016), Perspectives on Psychological Science",
+    "finding": "Twenty-three labs (N = 2,141) ran a standardized depletion protocol and pooled a small effect with a confidence interval including zero.",
+    "verdict": "Registered Replication Report: d = 0.04, interval includes zero.",
+    "url": "https://doi.org/10.1177/1745691616652873"
+   },
+   {
+    "cite": "Vohs et al. (2021), Psychological Science",
+    "finding": "A preregistered 36-lab study (N = 3,531) tested depletion with two procedures and found no significant effect.",
+    "verdict": "Confirmatory test d = 0.06, nonsignificant; authors found no evidence of depletion.",
+    "url": "https://doi.org/10.1177/0956797621989733"
+   }
+  ],
+  "kind": "You’re not in control"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "dead",
+  "claim": "Did you know… reading words about old age makes you walk more slowly?",
+  "studies": [
+   {
+    "cite": "Bargh, Chen & Burrows (1996), Journal of Personality and Social Psychology",
+    "finding": "Students unscrambling elderly-related words walked more slowly down a hallway afterward than students given neutral words.",
+    "verdict": "Landmark priming result; direct replication did not reproduce it.",
+    "url": "https://doi.org/10.1037/0022-3514.71.2.230"
+   },
+   {
+    "cite": "Doyen et al. (2012), PLoS ONE",
+    "finding": "With automated infrared timing, no slowing appeared; it showed up only when experimenters were led to expect it.",
+    "verdict": "Failed with objective timing; effect tracked experimenter expectation.",
+    "url": "https://doi.org/10.1371/journal.pone.0029081"
+   }
+  ],
+  "kind": "You’re not in control"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "shaky",
+  "claim": "Did you know… holding a pen in your teeth makes cartoons funnier?",
+  "studies": [
+   {
+    "cite": "Strack, Martin & Stepper (1988), Journal of Personality and Social Psychology",
+    "finding": "People holding a pen with their teeth, forcing a smile, rated cartoons as funnier than those holding it with their lips.",
+    "verdict": "Original finding; replications have since split.",
+    "url": "https://doi.org/10.1037/0022-3514.54.5.768"
+   },
+   {
+    "cite": "Wagenmakers et al. (2016), Perspectives on Psychological Science",
+    "finding": "Seventeen labs repeated the pen-in-mouth cartoon study and found no systematic effect of facial feedback.",
+    "verdict": "Registered Replication Report: original effect not reproduced.",
+    "url": "https://doi.org/10.1177/1745691616674458"
+   },
+   {
+    "cite": "Coles et al. (2022), Nature Human Behaviour",
+    "finding": "Across 19 countries (N = 3,878), mimicry and voluntary facial actions shifted happiness; the pen-in-mouth task was less conclusive.",
+    "verdict": "Some facial feedback effects appear; the pen task remains inconclusive.",
+    "url": "https://doi.org/10.1038/s41562-022-01458-9"
+   }
+  ],
+  "kind": "Tiny trick, huge effect"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "shaky",
+  "claim": "Did you know… hurricanes with feminine names kill more people than masculine-named ones?",
+  "studies": [
+   {
+    "cite": "Jung, Shavitt, Viswanathan & Hilbe (2014), PNAS",
+    "finding": "Archival data on US hurricanes suggested feminine-named storms caused more deaths, which the authors tied to weaker perceived threat.",
+    "verdict": "Original claim; reanalyses question the modeling.",
+    "url": "https://doi.org/10.1073/pnas.1402786111"
+   },
+   {
+    "cite": "Bakkensen & Larson (2014), PNAS",
+    "finding": "After removing damages from the model and controlling for population at risk, the name effect was not robust and sometimes reversed.",
+    "verdict": "Reanalysis: effect not robust to specification.",
+    "url": "https://doi.org/10.1073/pnas.1417030111"
+   },
+   {
+    "cite": "Christensen & Christensen (2014), PNAS",
+    "finding": "A reanalysis argued the original regression was fragile and the data contain no evidence that feminine names cause more deaths.",
+    "verdict": "Letter: data do not support a causal name effect.",
+    "url": "https://doi.org/10.1073/pnas.1410910111"
+   }
+  ],
+  "kind": "Hidden destiny"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "shaky",
+  "claim": "Did you know… people named Dennis are disproportionately likely to become dentists?",
+  "studies": [
+   {
+    "cite": "Pelham, Mirenberg & Jones (2002), Journal of Personality and Social Psychology",
+    "finding": "Archival records showed people choose careers, cities and spouses resembling their own names more often than chance would predict.",
+    "verdict": "Original implicit egotism evidence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11999918/"
+   },
+   {
+    "cite": "Simonsohn (2011), Journal of Personality and Social Psychology",
+    "finding": "Reanalysis argued the name-matching patterns are most likely produced by cohort, geographic and ethnic confounds, plus reverse causality.",
+    "verdict": "Critique says confounds explain it; authors dispute this.",
+    "url": "https://doi.org/10.1037/a0021990"
+   }
+  ],
+  "kind": "Hidden destiny"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "misread",
+  "claim": "Did you know… a four-year-old's wait for a marshmallow predicts later achievement?",
+  "studies": [
+   {
+    "cite": "Shoda, Mischel & Peake (1990), Developmental Psychology",
+    "finding": "Preschoolers who delayed gratification longer were later rated more competent and scored higher on the SAT.",
+    "verdict": "Real association, but small sample and no family controls.",
+    "url": "https://doi.org/10.1037/0012-1649.26.6.978"
+   },
+   {
+    "cite": "Watts, Duncan & Quan (2018), Psychological Science",
+    "finding": "In a larger, more diverse sample the link was about half as large and shrank by two-thirds with family controls.",
+    "verdict": "Association largely reflects family background and early ability.",
+    "url": "https://doi.org/10.1177/0956797618761661"
+   }
+  ],
+  "kind": "Hidden destiny"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "dead",
+  "claim": "Did you know… basketball's hot hand is a statistical illusion that fools fans?",
+  "studies": [
+   {
+    "cite": "Gilovich, Vallone & Tversky (1985), Cognitive Psychology",
+    "finding": "Analysis of 76ers shooting records found no evidence that a made shot makes the next one more likely.",
+    "verdict": "Famous null result, later shown to rest on a biased test.",
+    "url": "https://doi.org/10.1016/0010-0285(85)90010-6"
+   },
+   {
+    "cite": "Miller & Sanjurjo (2018), Econometrica",
+    "finding": "Selecting shots that follow streaks biases the measured hit rate downward; correcting this reverses the 1985 conclusion.",
+    "verdict": "Selection bias found; corrected data show streak shooting.",
+    "url": "https://doi.org/10.3982/ECTA14943"
+   }
+  ],
+  "kind": "Your senses lie"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "shaky",
+  "claim": "Did you know… students role-playing prison guards spontaneously turned cruel?",
+  "studies": [
+   {
+    "cite": "Haney, Banks & Zimbardo (1973), International Journal of Criminology and Penology",
+    "finding": "Volunteers assigned guard and prisoner roles in a mock prison reportedly showed rapid, severe behavioral change within days.",
+    "verdict": "Original report; the conclusion is now heavily disputed.",
+    "url": "https://doi.org/10.21236/AD0751041"
+   },
+   {
+    "cite": "Le Texier (2019), American Psychologist",
+    "finding": "Archival review argued the guards were coached and understood what was expected, undermining the claim of spontaneous cruelty.",
+    "verdict": "Archives suggest guards were coached; Zimbardo and colleagues dispute the critique.",
+    "url": "https://doi.org/10.1037/amp0000401"
+   }
+  ],
+  "kind": "You’re not in control"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "dead",
+  "claim": "Did you know… listening to Mozart makes you smarter?",
+  "studies": [
+   {
+    "cite": "Rauscher, Shaw & Ky (1993), Nature",
+    "finding": "College students scored higher on a spatial reasoning task after listening to a Mozart sonata than after silence or relaxation tapes.",
+    "verdict": "A brief task-specific effect, later inflated into general intelligence.",
+    "url": "https://doi.org/10.1038/365611a0"
+   },
+   {
+    "cite": "Pietschnig, Voracek & Formann (2010), Intelligence",
+    "finding": "A meta-analysis of 39 studies found small effects, with larger ones in affiliated labs and strong evidence of publication bias.",
+    "verdict": "Meta-analysis: little evidence for any special Mozart effect.",
+    "url": "https://doi.org/10.1016/j.intell.2010.03.001"
+   }
+  ],
+  "kind": "Tiny trick, huge effect"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "standing",
+  "claim": "Did you know… a random number shifts your guess of Chicago's population?",
+  "studies": [
+   {
+    "cite": "Jacowitz & Kahneman (1995), Personality and Social Psychology Bulletin",
+    "finding": "Estimates of quantities were pulled toward arbitrary high or low numbers participants had just compared them with.",
+    "verdict": "Original anchoring result; it has been strongly replicated.",
+    "url": "https://doi.org/10.1177/01461672952111004"
+   },
+   {
+    "cite": "Klein et al. (2014), Social Psychology",
+    "finding": "Across 36 samples, all four anchoring tests were significant in the expected direction, with effects larger than the original.",
+    "verdict": "Many Labs: replicated in every sample, with larger effects.",
+    "url": "https://doi.org/10.1027/1864-9335/a000178"
+   }
+  ],
+  "kind": "You’re not in control"
+ },
+ {
+  "field": "Psychology",
+  "verdict": "standing",
+  "claim": "Did you know… most ordinary people will give painful shocks when an experimenter insists?",
+  "studies": [
+   {
+    "cite": "Milgram (1963), Journal of Abnormal and Social Psychology",
+    "finding": "In the original obedience study, every participant reached 300 volts and 65% continued to the maximum 450 volts.",
+    "verdict": "Original study; its basic finding has been reproduced in modified form.",
+    "url": "https://doi.org/10.1037/h0040525"
+   },
+   {
+    "cite": "Burger (2009), American Psychologist",
+    "finding": "A partial replication halting at 150 volts found obedience rates virtually identical to Milgram's at that point.",
+    "verdict": "Replicated under modern ethics limits, with a truncated protocol.",
+    "url": "https://doi.org/10.1037/a0010932"
+   },
+   {
+    "cite": "Doliński et al. (2017), Social Psychological and Personality Science",
+    "finding": "In Poland, 90% of 80 participants were willing to press the highest of ten lower-voltage buttons.",
+    "verdict": "Obedience again comparable to Milgram's; sample small, shocks reduced.",
+    "url": "https://doi.org/10.1177/1948550617693060"
+   }
+  ],
+  "kind": "You’re not in control"
+ }
+]

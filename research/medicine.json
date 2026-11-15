@@ -1,0 +1,224 @@
+[
+ {
+  "field": "Medicine",
+  "verdict": "standing",
+  "claim": "Did you know… smokers are less likely to get Parkinson’s disease?",
+  "studies": [
+   {
+    "cite": "Mappin-Kasirer et al. (2020), Neurology",
+    "finding": "In about 30,000 British doctors followed for 65 years, current smokers had 29 percent lower risk of Parkinson disease than never-smokers.",
+    "verdict": "Dose-related pattern; authors argue it is causal, mechanism unknown.",
+    "url": "https://doi.org/10.1212/WNL.0000000000009437"
+   },
+   {
+    "cite": "Domenighetti et al. (2022), Journal of Parkinson's Disease",
+    "finding": "Mendelian randomisation found genetic liability to smoking initiation inversely associated with Parkinson's disease (odds ratio 0.74).",
+    "verdict": "Genetic analysis agrees; authors say reverse causation does not explain it.",
+    "url": "https://doi.org/10.3233/JPD-212851"
+   }
+  ],
+  "kind": "Vices are good for you"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "misread",
+  "claim": "Did you know… overweight people die less often than people of normal weight?",
+  "studies": [
+   {
+    "cite": "Flegal et al. (2013), JAMA",
+    "finding": "Pooled analysis found overweight carried a hazard ratio of 0.94 for all-cause mortality versus normal weight; grade 1 obesity 0.95, not significant.",
+    "verdict": "The pooled association is real; whether it means protection is disputed.",
+    "url": "https://doi.org/10.1001/jama.2012.113905"
+   },
+   {
+    "cite": "Banack & Kaufman (2014), Preventive Medicine",
+    "finding": "In NHANES III, obesity looked protective among people with cardiovascular disease (RR 0.79) but harmful among those without it (RR 1.30).",
+    "verdict": "Selecting on heart disease can create the effect; authors call it one plausible explanation.",
+    "url": "https://doi.org/10.1016/j.ypmed.2014.02.003"
+   }
+  ],
+  "kind": "Vices are good for you"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "misread",
+  "claim": "Did you know… low-birth-weight babies of smokers survive better than those of nonsmokers?",
+  "studies": [
+   {
+    "cite": "Hernández-Díaz, Schisterman & Hernán (2006), American Journal of Epidemiology",
+    "finding": "In 1991 U.S. data, low-birth-weight infants of smokers had lower infant mortality than those of nonsmokers (relative rate 0.79).",
+    "verdict": "Artifact of stratifying on birth weight; causal diagrams show no benefit of smoking is needed.",
+    "url": "https://doi.org/10.1093/aje/kwj275"
+   }
+  ],
+  "kind": "Vices are good for you"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "shaky",
+  "claim": "Did you know… hormone therapy protects women from heart disease?",
+  "studies": [
+   {
+    "cite": "Grodstein et al. (1996), New England Journal of Medicine",
+    "finding": "In the Nurses' Health Study, women taking estrogen with progestin had a major coronary disease risk ratio of 0.39 versus non-users.",
+    "verdict": "Observational; not borne out in the later randomized trial.",
+    "url": "https://profiles.wustl.edu/en/publications/postmenopausal-estrogen-and-progestin-use-and-the-risk-of-cardiov/"
+   },
+   {
+    "cite": "Writing Group for the Women's Health Initiative Investigators (2002), JAMA",
+    "finding": "A randomized trial of 16,608 women found 29 percent more coronary events on estrogen plus progestin than placebo; it was stopped early.",
+    "verdict": "Overturned the heart-protection claim for this regimen and population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12117397/"
+   },
+   {
+    "cite": "Hernán et al. (2008), Epidemiology",
+    "finding": "Re-analysing Nurses' Health Study data like a trial, the authors reproduced the trial's early-harm pattern in the intention-to-treat estimates.",
+    "verdict": "Gap largely traced to time since menopause and follow-up length; debate continues.",
+    "url": "https://doi.org/10.1097/ede.0b013e3181875e61"
+   }
+  ],
+  "kind": "The miracle pill"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "dead",
+  "claim": "Did you know… beta-carotene pills protect smokers from lung cancer?",
+  "studies": [
+   {
+    "cite": "Alpha-Tocopherol, Beta Carotene Cancer Prevention Study Group (1994), New England Journal of Medicine",
+    "finding": "In 29,133 Finnish male smokers, those given beta-carotene had 18 percent higher lung cancer incidence and 8 percent higher total mortality.",
+    "verdict": "Randomized trial: lung cancer went up, not down, in the beta-carotene group.",
+    "url": "https://dceg.cancer.gov/research/who-we-study/cohorts/alpha-tocopherol-beta-carotene-cancer-prevention-atbc-study"
+   },
+   {
+    "cite": "Omenn et al. (1996), New England Journal of Medicine",
+    "finding": "Beta carotene plus vitamin A raised lung cancer risk (relative risk 1.28 versus placebo); the trial ended 21 months early.",
+    "verdict": "Second large trial agreed: no benefit, possible harm.",
+    "url": "https://read.qxmd.com/read/8602180/effects-of-a-combination-of-beta-carotene-and-vitamin-a-on-lung-cancer-and-cardiovascular-disease"
+   }
+  ],
+  "kind": "The miracle pill"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "shaky",
+  "claim": "Did you know… light drinkers outlive people who never drink?",
+  "studies": [
+   {
+    "cite": "Stockwell et al. (2016), Journal of Studies on Alcohol and Drugs",
+    "finding": "A meta-analysis of 87 studies found low-volume drinkers had a mortality risk ratio of 0.86 versus lifetime abstainers before adjustment.",
+    "verdict": "Fell to 0.97 (not significant) once study biases were accounted for.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26997174/"
+   },
+   {
+    "cite": "Millwood et al. (2019), The Lancet",
+    "finding": "In 512,715 Chinese adults, self-reported drinking showed a U-shaped link to stroke in men, but genotype-predicted intake did not.",
+    "verdict": "Genetic data suggest the dip is mostly non-causal; the method has its own critics.",
+    "url": "https://doi.org/10.1016/S0140-6736(18)31772-0"
+   }
+  ],
+  "kind": "Vices are good for you"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "dead",
+  "claim": "Did you know… strangers' prayers helped heart patients leave hospital healthier?",
+  "studies": [
+   {
+    "cite": "Byrd (1988), Southern Medical Journal",
+    "finding": "Among 393 coronary care patients, the prayed-for group needed less ventilation, antibiotics and diuretics, and had lower severity scores.",
+    "verdict": "Many outcome categories tested; length of stay did not differ.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/3393937/"
+   },
+   {
+    "cite": "Benson et al. (2006), American Heart Journal",
+    "finding": "In 1,802 bypass patients, complications were 52 percent with prayer and 51 percent without; patients certain of prayer had 59 percent.",
+    "verdict": "Larger, better-controlled trial: no benefit from prayer.",
+    "url": "https://doi.org/10.1016/j.ahj.2005.05.028"
+   }
+  ],
+  "kind": "Mind over matter"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "dead",
+  "claim": "Did you know… praying in 2000 shortened hospital stays from the 1990s?",
+  "studies": [
+   {
+    "cite": "Leibovici (2001), BMJ",
+    "finding": "For 3,393 bloodstream-infection patients treated 1990 to 1996, prayer in 2000 was linked to shorter stays and fever; mortality did not differ significantly.",
+    "verdict": "Effect has no plausible mechanism; mortality difference was not significant.",
+    "url": "https://doi.org/10.1136/bmj.323.7327.1450"
+   }
+  ],
+  "kind": "Mind over matter"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "shaky",
+  "claim": "Did you know… placebos work even when patients are told they are placebos?",
+  "studies": [
+   {
+    "cite": "Kaptchuk et al. (2010), PLoS ONE",
+    "finding": "In 80 irritable bowel syndrome patients, openly labeled placebo pills beat no treatment on global improvement at 11 and 21 days.",
+    "verdict": "Small, unblinded, self-reported outcomes.",
+    "url": "https://dash.harvard.edu/entities/publication/73120378-9982-6bd4-e053-0100007fdf3b"
+   },
+   {
+    "cite": "von Wernsdorff et al. (2021), Scientific Reports",
+    "finding": "A meta-analysis of 11 trials found a pooled standardized effect of 0.72 for open-label placebos, 0.49 excluding high-risk-of-bias studies.",
+    "verdict": "Positive, but small trials, self-reported outcomes, funnel-plot asymmetry.",
+    "url": "https://doi.org/10.1038/s41598-021-83148-6"
+   }
+  ],
+  "kind": "Mind over matter"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "standing",
+  "claim": "Did you know… transplanting donor feces cures recurrent C. difficile better than antibiotics?",
+  "studies": [
+   {
+    "cite": "van Nood et al. (2013), New England Journal of Medicine",
+    "finding": "In 43 patients, duodenal donor-feces infusion cured 15 of 16, versus 4 of 13 on vancomycin and 3 of 13 with lavage.",
+    "verdict": "Stopped early; FDA approved a fecal microbiota product in 2022.",
+    "url": "https://www.qxmd.com/r/23323867"
+   }
+  ],
+  "kind": "Backwards medicine"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "standing",
+  "claim": "Did you know… stomach ulcers are caused by bacteria, not stress?",
+  "studies": [
+   {
+    "cite": "Marshall & Warren (1984), The Lancet",
+    "finding": "Curved bacilli appeared in gastroscopy biopsies from 58 of 100 patients and were strongly associated with chronic gastritis and ulceration.",
+    "verdict": "Recognized with the 2005 Nobel Prize; peptic ulcer disease is now considered curable.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/6145023/"
+   }
+  ],
+  "kind": "Backwards medicine"
+ },
+ {
+  "field": "Medicine",
+  "verdict": "standing",
+  "claim": "Did you know… feeding infants peanuts prevents peanut allergy?",
+  "studies": [
+   {
+    "cite": "Du Toit et al. (2015), New England Journal of Medicine",
+    "finding": "In high-risk infants with negative skin tests, peanut allergy at age five was 13.7 percent with avoidance versus 1.9 percent with consumption.",
+    "verdict": "Randomized trial; the benefit persisted in follow-up.",
+    "url": "https://doi.org/10.1056/NEJMoa1414850"
+   },
+   {
+    "cite": "Du Toit et al. (2016), New England Journal of Medicine",
+    "finding": "After a further year of peanut avoidance, allergy at age six was 18.6 percent in the avoidance group and 4.8 percent in the consumption group.",
+    "verdict": "Early introduction protection held up after a year without peanuts.",
+    "url": "https://www.qxmd.com/r/26942922"
+   }
+  ],
+  "kind": "Backwards medicine"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "field": "Economics & society",
+  "verdict": "dead",
+  "claim": "Did you know… national debt above 90% of GDP sharply cuts economic growth?",
+  "studies": [
+   {
+    "cite": "Reinhart & Rogoff (2010), American Economic Review",
+    "finding": "Countries with public debt above 90% of GDP showed markedly weaker average growth than less indebted countries.",
+    "verdict": "Widely used to justify austerity; later found to rest on a flawed spreadsheet.",
+    "url": "https://doi.org/10.1257/aer.100.2.573"
+   },
+   {
+    "cite": "Herndon, Ash & Pollin (2014), Cambridge Journal of Economics",
+    "finding": "Re-analysis found a coding error, omitted data and unusual weighting; high-debt countries averaged roughly 2% growth, not a contraction.",
+    "verdict": "Original calculation corrected; a weak debt-growth association remains, not a cliff.",
+    "url": "https://doi.org/10.1093/cje/bet075"
+   }
+  ],
+  "kind": "One lever moves society"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "shaky",
+  "claim": "Did you know… legalizing abortion in the 1970s cut crime two decades later?",
+  "studies": [
+   {
+    "cite": "Donohue & Levitt (2001), Quarterly Journal of Economics",
+    "finding": "States with earlier and higher abortion rates saw larger crime drops roughly 18 years later, which the authors attributed to fewer unwanted births.",
+    "verdict": "Influential, but the causal reading is disputed.",
+    "url": "https://doi.org/10.1162/00335530151144050"
+   },
+   {
+    "cite": "Foote & Goetz (2008), Quarterly Journal of Economics",
+    "finding": "Reanalysis argued that a coding omission and the use of total rather than per-capita arrests undermined the original estimates.",
+    "verdict": "Found a coding error; corrected estimates shrink. Donohue and Levitt dispute this.",
+    "url": "https://doi.org/10.1162/qjec.2008.123.1.407"
+   }
+  ],
+  "kind": "One lever moves society"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "shaky",
+  "claim": "Did you know… parole judges grant far fewer requests just before lunch?",
+  "studies": [
+   {
+    "cite": "Danziger, Levav & Avnaim-Pesso (2011), PNAS",
+    "finding": "Favorable parole rulings in Israel fell from about 65% to near zero within each session and rebounded after food breaks.",
+    "verdict": "Dramatic pattern, but case scheduling was not random.",
+    "url": "https://doi.org/10.1073/pnas.1018033108"
+   },
+   {
+    "cite": "Weinshall-Margel & Shapard (2011), PNAS",
+    "finding": "Prisoners without lawyers were scheduled last in each session, and unrepresented cases are far less likely to be granted.",
+    "verdict": "Ordering of cases plausibly explains much of the pattern.",
+    "url": "https://doi.org/10.1073/pnas.1110910108"
+   },
+   {
+    "cite": "Glöckner (2016), Judgment and Decision Making",
+    "finding": "Simulations showed that judges avoiding cases that would overrun a session could produce a similar decline without any hunger effect.",
+    "verdict": "Effect size likely overestimated; original data not conclusive.",
+    "url": "https://dlab.sauder.ubc.ca/sjdm/journal/16/16823/jdm16823.html"
+   }
+  ],
+  "kind": "Justice isn’t blind"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "misread",
+  "claim": "Did you know… storks deliver babies, according to a statistical test?",
+  "studies": [
+   {
+    "cite": "Matthews (2000), Teaching Statistics",
+    "finding": "Across European countries, stork breeding pairs correlated with human birth rates with a p-value of 0.008.",
+    "verdict": "Both track country size; a deliberate lesson in confounding.",
+    "url": "https://doi.org/10.1111/1467-9639.00013"
+   }
+  ],
+  "kind": "Spooky correlations"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "shaky",
+  "claim": "Did you know… offering shoppers more jam flavors made them buy less?",
+  "studies": [
+   {
+    "cite": "Iyengar & Lepper (2000), Journal of Personality and Social Psychology",
+    "finding": "A tasting table with 24 jams drew more browsers but fewer purchases than one with 6 jams.",
+    "verdict": "Single-store result; later studies often find no such effect.",
+    "url": "https://doi.org/10.1037/0022-3514.79.6.995"
+   },
+   {
+    "cite": "Scheibehenne, Greifeneder & Todd (2010), Journal of Consumer Research",
+    "finding": "A meta-analysis of choice-overload experiments found the average choice-overload effect was near zero, with large variation between studies.",
+    "verdict": "Effect appears only under particular conditions.",
+    "url": "https://doi.org/10.1086/651235"
+   }
+  ],
+  "kind": "Tiny trick, huge effect"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "shaky",
+  "claim": "Did you know… factory workers produced more simply because they were being watched?",
+  "studies": [
+   {
+    "cite": "Levitt & List (2011), American Economic Journal: Applied Economics",
+    "finding": "Recovered data from the original Hawthorne lighting experiments and found the famous productivity pattern was not present as described.",
+    "verdict": "The legend is unsupported; weak signs of observation effects remain.",
+    "url": "https://doi.org/10.1257/app.3.1.224"
+   }
+  ],
+  "kind": "You’re not in control"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "shaky",
+  "claim": "Did you know… Houston police were no more likely to shoot Black suspects than white ones?",
+  "studies": [
+   {
+    "cite": "Fryer (2019), Journal of Political Economy",
+    "finding": "Among stopped civilians, Black and Hispanic people faced more non-lethal force, yet no racial difference appeared in officer-involved shootings.",
+    "verdict": "Data cover only people already stopped; that is where the dispute lies.",
+    "url": "https://fryer.scholars.harvard.edu/publications/empirical-analysis-racial-differences-police-use-force"
+   },
+   {
+    "cite": "Knox, Lowe & Mummolo (2020), American Political Science Review",
+    "finding": "Administrative records include only stops police chose to make, so biased stopping can hide bias in later use of force.",
+    "verdict": "Argues stop data hide bias unless corrected; Fryer’s defenders disagree.",
+    "url": "https://doi.org/10.1017/S0003055420000039"
+   }
+  ],
+  "kind": "Justice isn’t blind"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "shaky",
+  "claim": "Did you know… a short online lesson on brain plasticity raises student grades?",
+  "studies": [
+   {
+    "cite": "Sisk et al. (2018), Psychological Science",
+    "finding": "Two meta-analyses found weak links between mindset and achievement and small average effects of mindset interventions.",
+    "verdict": "Effects small and uneven; far from the early claims.",
+    "url": "https://doi.org/10.1177/0956797617739704"
+   },
+   {
+    "cite": "Yeager et al. (2019), Nature",
+    "finding": "A preregistered national experiment found a brief intervention modestly raised grades among lower-achieving students.",
+    "verdict": "Small but real in one subgroup; effect varies by school context.",
+    "url": "https://doi.org/10.1038/s41586-019-1466-y"
+   }
+  ],
+  "kind": "Tiny trick, huge effect"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "standing",
+  "claim": "Did you know… raising the minimum wage did not cost fast-food jobs?",
+  "studies": [
+   {
+    "cite": "Card & Krueger (1994), American Economic Review",
+    "finding": "After New Jersey raised its minimum wage, fast-food employment did not fall relative to neighboring Pennsylvania.",
+    "verdict": "Fought over for decades; much later evidence finds small job effects.",
+    "url": "https://ideas.repec.org/a/aea/aecrev/v84y1994i4p772-93.html"
+   },
+   {
+    "cite": "Cengiz et al. (2019), Quarterly Journal of Economics",
+    "finding": "Across many state minimum-wage changes, jobs lost just below the new minimum were offset by jobs gained just above it.",
+    "verdict": "Supports the original finding of little net job loss.",
+    "url": "https://doi.org/10.1093/qje/qjz014"
+   }
+  ],
+  "kind": "One lever moves society"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "standing",
+  "claim": "Did you know… identical résumés get more callbacks with white-sounding names?",
+  "studies": [
+   {
+    "cite": "Bertrand & Mullainathan (2004), American Economic Review",
+    "finding": "Fictitious résumés with white-sounding names received about 50% more callbacks than identical ones with Black-sounding names.",
+    "verdict": "A field experiment that has been repeatedly reproduced.",
+    "url": "https://doi.org/10.1257/0002828042002561"
+   },
+   {
+    "cite": "Quillian et al. (2017), PNAS",
+    "finding": "A meta-analysis of hiring field experiments found no decline in discrimination against Black applicants since 1989.",
+    "verdict": "Pattern persisted across decades of replications.",
+    "url": "https://doi.org/10.1073/pnas.1706255114"
+   }
+  ],
+  "kind": "Justice isn’t blind"
+ },
+ {
+  "field": "Economics & society",
+  "verdict": "shaky",
+  "claim": "Did you know… more income stops making people happier beyond $75,000?",
+  "studies": [
+   {
+    "cite": "Kahneman & Deaton (2010), PNAS",
+    "finding": "Day-to-day emotional well-being rose with income up to about $75,000 a year and then stopped rising.",
+    "verdict": "Plateau later contradicted for most people.",
+    "url": "https://doi.org/10.1073/pnas.1011492107"
+   },
+   {
+    "cite": "Killingsworth (2021), PNAS",
+    "finding": "Using experience-sampling data, reported well-being kept rising with income past $75,000, with no plateau.",
+    "verdict": "Challenged the plateau directly.",
+    "url": "https://doi.org/10.1073/pnas.2016976118"
+   },
+   {
+    "cite": "Killingsworth, Kahneman & Mellers (2023), PNAS",
+    "finding": "Joint reanalysis found happiness rises with income for most people, but plateaus only for a small unhappiest minority.",
+    "verdict": "Both sides partly right; the simple plateau claim is dead.",
+    "url": "https://doi.org/10.1073/pnas.2208661120"
+   }
+  ],
+  "kind": "One lever moves society"
+ }
+]

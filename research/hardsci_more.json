@@ -1,0 +1,116 @@
+[
+ {
+  "field": "Physics, biology & brains",
+  "kind": "Life finds a way",
+  "verdict": "misread",
+  "claim": "Did you know… 80 percent of the human genome is functional?",
+  "studies": [
+   {
+    "cite": "ENCODE Project Consortium (2012), Nature",
+    "finding": "The project assigned biochemical activity to 80 percent of the genome, which was presented as function.",
+    "verdict": "Defines function as reproducible biochemical signal, not selection.",
+    "url": "https://doi.org/10.1038/nature11247"
+   },
+   {
+    "cite": "Graur et al. (2013), Genome Biology and Evolution",
+    "finding": "A critique argued that biochemical activity does not equal function and that the 80 percent figure ignores evolutionary evidence.",
+    "verdict": "Peer critique widely cited against the headline.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3622293"
+   }
+  ]
+ },
+ {
+  "field": "Physics, biology & brains",
+  "kind": "Your senses lie",
+  "verdict": "standing",
+  "claim": "Did you know… some women see a fourth dimension of colour?",
+  "studies": [
+   {
+    "cite": "Jordan et al. (2010), Journal of Vision",
+    "finding": "Of 24 carriers of a colour-vision variant tested, one showed tetrachromatic behaviour on all tests and carried four distinct cone pigments.",
+    "verdict": "Held up, but rare: most carriers are not tetrachromats.",
+    "url": "https://doi.org/10.1167/10.8.12"
+   }
+  ]
+ },
+ {
+  "field": "Physics, biology & brains",
+  "kind": "Hidden destiny",
+  "verdict": "dead",
+  "claim": "Did you know… people are either left-brained or right-brained?",
+  "studies": [
+   {
+    "cite": "Nielsen et al. (2013), PLoS ONE",
+    "finding": "Resting-state MRI from over 1,000 people found no sign that one hemisphere's networks dominate within an individual.",
+    "verdict": "No support for personality-style hemispheric dominance.",
+    "url": "https://doi.org/10.1371/journal.pone.0071275"
+   }
+  ]
+ },
+ {
+  "field": "Physics, biology & brains",
+  "kind": "Hidden destiny",
+  "verdict": "standing",
+  "claim": "Did you know… famine before birth leaves chemical marks on genes for decades?",
+  "studies": [
+   {
+    "cite": "Heijmans et al. (2008), PNAS",
+    "finding": "People exposed to the Dutch Hunger Winter around conception had lower IGF2 methylation six decades later than unexposed siblings.",
+    "verdict": "Later, larger work tied methylation to adult metabolism.",
+    "url": "https://doi.org/10.1073/pnas.0806560105"
+   },
+   {
+    "cite": "Tobi et al. (2018), Science Advances",
+    "finding": "In 422 exposed people and 463 sibling controls, methylation partly mediated links between prenatal famine, BMI and triglycerides.",
+    "verdict": "Extended the finding in a larger sample.",
+    "url": "https://doi.org/10.1126/sciadv.aao4364"
+   }
+  ]
+ },
+ {
+  "field": "Physics, biology & brains",
+  "kind": "Life finds a way",
+  "verdict": "standing",
+  "claim": "Did you know… a bacterium was found living on discarded plastic bottles?",
+  "studies": [
+   {
+    "cite": "Yoshida et al. (2016), Science",
+    "finding": "A bacterium isolated at a recycling site could break down and assimilate PET plastic.",
+    "verdict": "Enzyme structure later confirmed and engineered for better activity.",
+    "url": "https://doi.org/10.1126/science.aad6359"
+   },
+   {
+    "cite": "Austin et al. (2018), PNAS",
+    "finding": "The team solved the structure of the plastic-digesting enzyme and engineered a version with better PET degradation.",
+    "verdict": "Independent confirmation of the enzyme.",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018PNAS..115E4350A"
+   }
+  ]
+ },
+ {
+  "field": "Physics, biology & brains",
+  "kind": "Rewrite physics",
+  "verdict": "shaky",
+  "claim": "Did you know… cosmic rays seed clouds and drive climate change?",
+  "studies": [
+   {
+    "cite": "Svensmark & Friis-Christensen (1997), Journal of Atmospheric and Solar-Terrestrial Physics",
+    "finding": "Reported a correlation between cosmic ray flux and global cloud cover over a solar cycle.",
+    "verdict": "Correlation; causal link and size remain disputed.",
+    "url": "https://ui.adsabs.harvard.edu/abs/1997JASTP..59.1225S/abstract"
+   },
+   {
+    "cite": "Kirkby et al. (2011), Nature",
+    "finding": "The CLOUD chamber found ions raise sulphuric acid nucleation, but ammonia and acid levels fall short of observed boundary-layer nucleation.",
+    "verdict": "Mechanism is real; reach is limited.",
+    "url": "https://doi.org/10.1038/nature10343"
+   },
+   {
+    "cite": "Pierce & Adams (2009), Geophysical Research Letters",
+    "finding": "Simulated cosmic-ray changes in cloud condensation nuclei came out two orders of magnitude too small to matter.",
+    "verdict": "Effect on climate judged negligible.",
+    "url": "https://doi.org/10.1029/2009GL037946"
+   }
+  ]
+ }
+]

@@ -1,0 +1,230 @@
+[
+ {
+  "field": "Psychology",
+  "kind": "Spooky correlations",
+  "verdict": "shaky",
+  "claim": "Did you know… the least skilled people are the most overconfident about their skills?",
+  "studies": [
+   {
+    "cite": "Nuhfer et al. (2016), Numeracy",
+    "finding": "Random-number simulations showed that noise and a common graphing convention can produce the classic self-assessment pattern without any metacognitive deficit.",
+    "verdict": "Noise and regression to the mean can mimic the effect.",
+    "url": "https://doi.org/10.5038/1936-4660.9.1.4"
+   },
+   {
+    "cite": "Gignac & Zajenkowski (2020), Intelligence",
+    "finding": "In 929 people, self-rated and measured intelligence related almost linearly, with no sign of the pattern the effect predicts.",
+    "verdict": "Effect likely much smaller than reported; a rebuttal and replication exist.",
+    "url": "https://doi.org/10.1016/j.intell.2020.101449"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "You’re not in control",
+  "verdict": "shaky",
+  "claim": "Did you know… your startle reflex predicts whether you vote left or right?",
+  "studies": [
+   {
+    "cite": "Oxley et al. (2008), Science",
+    "finding": "In 46 adults, stronger physiological reactions to sudden noises and threatening images went with conservative positions on defense and social order.",
+    "verdict": "Small sample; widely cited for a decade without independent replication.",
+    "url": "https://doi.org/10.1126/science.1157627"
+   },
+   {
+    "cite": "Bakker et al. (2020), Nature Human Behaviour",
+    "finding": "A preregistered direct replication and two conceptual replications found no stronger physiological threat response among conservatives.",
+    "verdict": "Failed in the US and the Netherlands.",
+    "url": "https://doi.org/10.1038/s41562-020-0823-z"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "Tiny trick, huge effect",
+  "verdict": "dead",
+  "claim": "Did you know… washing your hands makes your moral judgments less harsh?",
+  "studies": [
+   {
+    "cite": "Schnall, Benton & Harvey (2008), Psychological Science",
+    "finding": "Participants primed with cleanliness, or who washed their hands after disgust, judged moral transgressions less severely.",
+    "verdict": "Original two-experiment report, small samples.",
+    "url": "https://doi.org/10.1111/j.1467-9280.2008.02227.x"
+   },
+   {
+    "cite": "Johnson, Cheung & Donnellan (2014), Social Psychology",
+    "finding": "Direct replications of both experiments, with over 99% power, found effects near zero.",
+    "verdict": "Not replicated; the original authors dispute the analysis, citing ceiling effects.",
+    "url": "https://doi.org/10.1027/1864-9335/a000186"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "Tiny trick, huge effect",
+  "verdict": "dead",
+  "claim": "Did you know… holding a warm cup makes you see other people as warmer?",
+  "studies": [
+   {
+    "cite": "Williams & Bargh (2008), Science",
+    "finding": "Briefly holding hot coffee rather than iced coffee led people to rate a stranger as having a warmer personality.",
+    "verdict": "Original two-experiment report.",
+    "url": "https://doi.org/10.1126/science.1162548"
+   },
+   {
+    "cite": "Lynott et al. (2014), Social Psychology",
+    "finding": "Three high-powered replications of the study of warm packs and generosity, 861 participants in total, found no effect.",
+    "verdict": "No effect at any site; later replications also failed.",
+    "url": "https://doi.org/10.1027/1864-9335/a000187"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "Tiny trick, huge effect",
+  "verdict": "dead",
+  "claim": "Did you know… teaching to your learning style improves how much you learn?",
+  "studies": [
+   {
+    "cite": "Pashler et al. (2008), Psychological Science in the Public Interest",
+    "finding": "A review found abundant stated style preferences but almost no evidence that matching instruction to style improves learning outcomes.",
+    "verdict": "Required matching pattern not found; some studies contradict it.",
+    "url": "https://doi.org/10.1111/j.1539-6053.2009.01038.x"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "Hidden destiny",
+  "verdict": "shaky",
+  "claim": "Did you know… speaking two languages gives you a lasting edge in executive control?",
+  "studies": [
+   {
+    "cite": "de Bruin, Treccani & Della Sala (2015), Psychological Science",
+    "finding": "Conference abstracts showing a bilingual advantage were far more likely to reach print than those showing none, indicating publication bias.",
+    "verdict": "Evidence is contested; funnel-plot asymmetry supports publication bias.",
+    "url": "https://doi.org/10.1177/0956797614557866"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "You’re not in control",
+  "verdict": "dead",
+  "claim": "Did you know… sleeping on a complex decision beats thinking it over?",
+  "studies": [
+   {
+    "cite": "Dijksterhuis et al. (2006), Science",
+    "finding": "For complex choices, people distracted with puzzles chose better than people who deliberated; deliberation won for simple choices.",
+    "verdict": "Original deliberation-without-attention report.",
+    "url": "https://doi.org/10.1126/science.1121629"
+   },
+   {
+    "cite": "Nieuwenstein et al. (2015), Judgment and Decision Making",
+    "finding": "A meta-analysis and a 399-person replication found no unconscious thought advantage; positive results came from small samples.",
+    "verdict": "No reliable support for the effect.",
+    "url": "http://journal.sjdm.org/14/14321/jdm14321.html"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "Mind over matter",
+  "verdict": "dead",
+  "claim": "Did you know… a lucky golf ball makes you putt better?",
+  "studies": [
+   {
+    "cite": "Damisch, Stoberock & Mussweiler (2010), Psychological Science",
+    "finding": "Golfers told that their ball was lucky sank more putts than those given an ordinary ball.",
+    "verdict": "Original report, with a large effect (d = 0.83).",
+    "url": "https://doi.org/10.1177/0956797610372631"
+   },
+   {
+    "cite": "Calin-Jageman & Caldwell (2014), Social Psychology",
+    "finding": "Two high-powered replications found the lucky-ball group performed barely better than controls, pooled d = 0.05.",
+    "verdict": "Not replicated; effect essentially zero.",
+    "url": "https://doi.org/10.1027/1864-9335/a000190"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "Your senses lie",
+  "verdict": "shaky",
+  "claim": "Did you know… a red shirt makes a woman look more attractive to men?",
+  "studies": [
+   {
+    "cite": "Elliot & Niesta (2008), Journal of Personality and Social Psychology",
+    "finding": "Across five experiments, men rated women as more attractive and sexually desirable when red was present.",
+    "verdict": "Original five-experiment report.",
+    "url": "https://doi.org/10.1037/0022-3514.95.5.1150"
+   },
+   {
+    "cite": "Peperkoorn, Roberts & Pollet (2016), Evolutionary Psychology",
+    "finding": "Three studies of 830 men, including a larger replication of a prior red effect, found no support for it.",
+    "verdict": "Failed to replicate; the literature remains contested.",
+    "url": "https://doi.org/10.1177/1474704916673841"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "The miracle pill",
+  "verdict": "shaky",
+  "claim": "Did you know… online brain-training games make you smarter at everything else?",
+  "studies": [
+   {
+    "cite": "Owen et al. (2010), Nature",
+    "finding": "In a six-week online trial, participants improved on trained tasks, but the gains did not carry over to untrained cognitive tasks.",
+    "verdict": "Practice effects only, no transfer.",
+    "url": "https://doi.org/10.1038/nature09042"
+   },
+   {
+    "cite": "Simons et al. (2016), Psychological Science in the Public Interest",
+    "finding": "A review of the brain-training literature found improvement on practiced tasks but little evidence of broad or real-world benefits.",
+    "verdict": "Broad benefits unproven; some narrow claims remain open.",
+    "url": "https://doi.org/10.1177/1529100616661983"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "Tiny trick, huge effect",
+  "verdict": "standing",
+  "claim": "Did you know… taking a test teaches you more than rereading the material?",
+  "studies": [
+   {
+    "cite": "Roediger & Karpicke (2006), Psychological Science",
+    "finding": "Students who took recall tests remembered more after two days and a week than students who reread, despite feeling less confident.",
+    "verdict": "Original finding; rereading only won at five minutes.",
+    "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+   },
+   {
+    "cite": "Rowland (2014), Psychological Bulletin",
+    "finding": "A meta-analysis of testing versus restudy comparisons examined the size and causes of the testing effect.",
+    "verdict": "Effect has held up across the literature.",
+    "url": "https://doi.org/10.1037/a0037559"
+   }
+  ]
+ },
+ {
+  "field": "Psychology",
+  "kind": "Your senses lie",
+  "verdict": "standing",
+  "claim": "Did you know… most radiologists searching for lung nodules missed a gorilla on the scan?",
+  "studies": [
+   {
+    "cite": "Simons & Chabris (1999), Perception",
+    "finding": "Observers counting basketball passes often failed to notice a person in a gorilla suit walking through the scene.",
+    "verdict": "Original inattentional blindness demonstration; widely reproduced since.",
+    "url": "https://doi.org/10.1068/p281059"
+   },
+   {
+    "cite": "Drew, Vo & Wolfe (2013), Psychological Science",
+    "finding": "Of 24 radiologists checking scans for nodules, 83% missed a gorilla image much larger than a typical nodule.",
+    "verdict": "Held up in expert observers; most who missed it had looked at it.",
+    "url": "https://doi.org/10.1177/0956797613479386"
+   }
+  ]
+ }
+]

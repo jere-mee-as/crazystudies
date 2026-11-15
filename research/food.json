@@ -1,0 +1,170 @@
+[
+ {
+  "field": "Food & lifestyle",
+  "verdict": "misread",
+  "claim": "Did you know… countries that eat more chocolate win more Nobel Prizes?",
+  "studies": [
+   {
+    "cite": "Messerli (2012), New England Journal of Medicine",
+    "finding": "Plotted national chocolate consumption against Nobel laureates per capita and reported a strong positive correlation across countries.",
+    "verdict": "Country-level correlation; wealth and research funding explain it, not cocoa.",
+    "url": "https://doi.org/10.1056/NEJMon1211064"
+   }
+  ],
+  "kind": "Spooky correlations"
+ },
+ {
+  "field": "Food & lifestyle",
+  "verdict": "dead",
+  "claim": "Did you know… coffee drinking was once linked to a doubled risk of pancreatic cancer?",
+  "studies": [
+   {
+    "cite": "MacMahon et al. (1981), New England Journal of Medicine",
+    "finding": "In a hospital case-control study, drinking three or more cups daily carried a relative risk of 2.7 for pancreatic cancer.",
+    "verdict": "Control group included many patients with digestive disorders; the finding did not hold.",
+    "url": "https://doi.org/10.1056/NEJM198103123041102"
+   },
+   {
+    "cite": "Turati et al. (2012), Annals of Oncology",
+    "finding": "A meta-analysis of coffee and pancreatic cancer found no appreciable association, including at high consumption.",
+    "verdict": "Meta-analysis: coffee is not appreciably related to pancreatic cancer risk.",
+    "url": "https://doi.org/10.1093/annonc/mdr331"
+   }
+  ],
+  "kind": "Everyday killers"
+ },
+ {
+  "field": "Food & lifestyle",
+  "verdict": "misread",
+  "claim": "Did you know… taking vitamin E supplements cut women's heart disease risk by a third?",
+  "studies": [
+   {
+    "cite": "Stampfer et al. (1993), New England Journal of Medicine",
+    "finding": "Among 87,245 nurses, those with the highest vitamin E intake had roughly one-third lower coronary risk, mostly from supplements.",
+    "verdict": "Observational; the authors themselves urged waiting for randomized trials.",
+    "url": "https://doi.org/10.1056/NEJM199305203282003"
+   },
+   {
+    "cite": "GISSI-Prevenzione Investigators (1999), The Lancet",
+    "finding": "In 11,324 heart-attack survivors, vitamin E did not reduce death, nonfatal heart attack, or stroke.",
+    "verdict": "Randomized trial: no benefit from vitamin E.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10465168/"
+   },
+   {
+    "cite": "Yusuf et al. (2000), New England Journal of Medicine",
+    "finding": "In 9,541 high-risk patients, 400 IU of vitamin E daily for five years did not reduce cardiovascular events.",
+    "verdict": "Randomized trial: no cardiovascular benefit over five years.",
+    "url": "https://doi.org/10.1056/NEJM200001203420302"
+   }
+  ],
+  "kind": "The miracle pill"
+ },
+ {
+  "field": "Food & lifestyle",
+  "verdict": "shaky",
+  "claim": "Did you know… a compound in red wine helps mice live longer?",
+  "studies": [
+   {
+    "cite": "Baur et al. (2006), Nature",
+    "finding": "Middle-aged mice on a high-calorie diet given resveratrol survived longer and had improved insulin sensitivity and motor function.",
+    "verdict": "Real in mice on a rich diet; human benefit not shown.",
+    "url": "https://doi.org/10.1038/nature05354"
+   },
+   {
+    "cite": "Semba et al. (2014), JAMA Internal Medicine",
+    "finding": "In 783 older Italians, urinary resveratrol metabolites were not associated with lower mortality, heart disease, or cancer.",
+    "verdict": "Observational human data show no link; supplement trials remain mixed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24819981/"
+   }
+  ],
+  "kind": "The miracle pill"
+ },
+ {
+  "field": "Food & lifestyle",
+  "verdict": "misread",
+  "claim": "Did you know… eating breakfast is linked to a healthier weight?",
+  "studies": [
+   {
+    "cite": "Dhurandhar et al. (2014), American Journal of Clinical Nutrition",
+    "finding": "In 309 overweight adults, 16 weeks of eating or skipping breakfast produced no significant difference in weight loss.",
+    "verdict": "Randomized trial: no effect on weight.",
+    "url": "https://doi.org/10.3945/ajcn.114.089573"
+   },
+   {
+    "cite": "Sievert et al. (2019), BMJ",
+    "finding": "A meta-analysis of 13 randomized trials found breakfast eaters did not lose more weight; skippers weighed 0.44 kg less.",
+    "verdict": "Observational link likely reflects confounding by lifestyle and socioeconomic status.",
+    "url": "https://doi.org/10.1136/bmj.l42"
+   }
+  ],
+  "kind": "Tiny trick, huge effect"
+ },
+ {
+  "field": "Food & lifestyle",
+  "verdict": "shaky",
+  "claim": "Did you know… sitting for long periods raises the risk of early death?",
+  "studies": [
+   {
+    "cite": "Biswas et al. (2015), Annals of Internal Medicine",
+    "finding": "A review of 47 studies linked more sedentary time to higher all-cause mortality (hazard ratio 1.24), even among active people.",
+    "verdict": "Observational; sitting and physical activity were measured inconsistently.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25599350/"
+   },
+   {
+    "cite": "Ekelund et al. (2016), The Lancet",
+    "finding": "Pooled data on over one million people suggested 60 to 75 minutes of daily moderate activity offsets mortality risk from sitting.",
+    "verdict": "Contested: risk attenuated by exercise, though high television time remained linked.",
+    "url": "https://cambridgebrc.nihr.ac.uk/2016/09/24/physical-activity-attenuate-even-eliminate-detrimental-association-sitting-time-mortality-harmonised-meta-analysis-data-1-million-men-women/"
+   }
+  ],
+  "kind": "Everyday killers"
+ },
+ {
+  "field": "Food & lifestyle",
+  "verdict": "shaky",
+  "claim": "Did you know… coffee drinkers die less often, even from accidents?",
+  "studies": [
+   {
+    "cite": "Freedman et al. (2012), New England Journal of Medicine",
+    "finding": "Among about 400,000 older adults, those drinking three or more cups daily had roughly 10 percent lower mortality than non-drinkers.",
+    "verdict": "Association persists in cohorts; lower accident deaths point to confounding.",
+    "url": "https://doi.org/10.1056/NEJMoa1112010"
+   }
+  ],
+  "kind": "Vices are good for you"
+ },
+ {
+  "field": "Food & lifestyle",
+  "verdict": "shaky",
+  "claim": "Did you know… every half egg per day was tied to higher mortality?",
+  "studies": [
+   {
+    "cite": "Zhong et al. (2019), JAMA",
+    "finding": "Across six US cohorts of 29,615 adults, each extra half egg daily was associated with higher cardiovascular disease and mortality risk.",
+    "verdict": "Egg link vanished after adjusting for dietary cholesterol; debate unresolved.",
+    "url": "https://doi.org/10.1001/jama.2019.1572"
+   }
+  ],
+  "kind": "Everyday killers"
+ },
+ {
+  "field": "Food & lifestyle",
+  "verdict": "standing",
+  "claim": "Did you know… a Mediterranean diet study was retracted and republished, and still held?",
+  "studies": [
+   {
+    "cite": "Estruch et al. (2013), New England Journal of Medicine (retracted 2018)",
+    "finding": "A randomized trial reported about 30 percent fewer cardiovascular events with a Mediterranean diet plus olive oil or nuts.",
+    "verdict": "Retracted for randomization irregularities at some sites; not fraud.",
+    "url": "https://doi.org/10.1056/NEJMoa1200303"
+   },
+   {
+    "cite": "Estruch et al. (2018), New England Journal of Medicine",
+    "finding": "Reanalysis, excluding 1,588 participants with possible randomization departures and adjusting for clustering, reached largely the same conclusion.",
+    "verdict": "Republished; the Mediterranean diet effect largely stood.",
+    "url": "https://doi.org/10.1056/NEJMoa1800389"
+   }
+  ],
+  "kind": "The miracle pill"
+ }
+]

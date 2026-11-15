@@ -1,0 +1,242 @@
+[
+ {
+  "field": "The paranormal",
+  "verdict": "dead",
+  "claim": "Did you know… people respond to stimuli that have not yet been shown?",
+  "studies": [
+   {
+    "cite": "Bem (2011), Journal of Personality and Social Psychology",
+    "finding": "Reported nine experiments in which participants' responses appeared to be influenced by stimuli presented only after they had responded.",
+    "verdict": "Independent replications failed; a large preregistered test found nothing.",
+    "url": "https://doi.org/10.1037/a0021524"
+   },
+   {
+    "cite": "Ritchie, Wiseman & French (2012), PLoS ONE",
+    "finding": "Ran three preregistered replications of Bem's retroactive recall experiment, 150 participants in total, and found no effect.",
+    "verdict": "Combined result was null (p = .83, one-tailed).",
+    "url": "https://doi.org/10.1371/journal.pone.0033423"
+   },
+   {
+    "cite": "Kekecs et al. (2023), Royal Society Open Science",
+    "finding": "Ten laboratories in nine countries repeated Bem's first experiment with 2,115 participants under a protocol agreed with proponents.",
+    "verdict": "Success rate 49.89% against chance of 50%; all four tests favored the null.",
+    "url": "https://doi.org/10.1098/rsos.191375"
+   }
+  ],
+  "kind": "Impossible senses"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "shaky",
+  "claim": "Did you know… volunteers can receive images telepathically while sensory-deprived?",
+  "studies": [
+   {
+    "cite": "Bem & Honorton (1994), Psychological Bulletin",
+    "finding": "Reviewed ganzfeld telepathy studies and reported receivers scoring about 35% against 25% chance, calling the effect replicable.",
+    "verdict": "Prompted a long dispute over methods and replicability that has not ended.",
+    "url": "https://doi.org/10.1037/0033-2909.115.1.4"
+   },
+   {
+    "cite": "Milton & Wiseman (1999), Psychological Bulletin",
+    "finding": "Pooled 30 later ganzfeld studies from seven laboratories (1,198 trials) and found no significant effect.",
+    "verdict": "Stouffer z = 0.70, p = .24; effect did not replicate in this set.",
+    "url": "https://doi.org/10.1037/0033-2909.125.4.387"
+   },
+   {
+    "cite": "Storm, Tressoldi & Di Risio (2010), Psychological Bulletin",
+    "finding": "Meta-analyzed 67 free-response studies from 1992 to 2008 and reported a significant ganzfeld effect, mean effect size 0.142.",
+    "verdict": "Proponents' analysis found an effect; critics dispute the inclusion criteria.",
+    "url": "https://doi.org/10.1037/a0019457"
+   }
+  ],
+  "kind": "Impossible senses"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "shaky",
+  "claim": "Did you know… human intention can bias random number generators?",
+  "studies": [
+   {
+    "cite": "Jahn, Dunne & Nelson (1997), Journal of Scientific Exploration",
+    "finding": "Reviewed a 12-year Princeton program of over 1,000 experimental series, reporting tiny shifts in random output that matched operators' stated intentions.",
+    "verdict": "Effects were minute and the program's results were not independently reproduced.",
+    "url": "https://noosphere.princeton.edu/papers/zip/ejap/web/abstracts/Jahn_1997.html"
+   },
+   {
+    "cite": "Bösch, Steinkamp & Boller (2006), Psychological Bulletin",
+    "finding": "Meta-analyzed 380 random-generator studies and found a very small effect that shrank as sample size grew.",
+    "verdict": "Authors judged publication bias a plausible explanation; evidence 'not proven'.",
+    "url": "https://doi.org/10.1037/0033-2909.132.4.497"
+   }
+  ],
+  "kind": "Mind over matter"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "shaky",
+  "claim": "Did you know… random number generators worldwide drift during major world events?",
+  "studies": [
+   {
+    "cite": "Nelson, Radin, Shoup & Bancel (2002), Foundations of Physics Letters",
+    "finding": "Reported that a global network of random generators departed from chance expectation during events of broad importance, including September 11, 2001.",
+    "verdict": "Event selection and analysis choices were criticized; no mechanism proposed.",
+    "url": "https://doi.org/10.1023/A:1024138403182"
+   },
+   {
+    "cite": "Scargle (2002), Journal of Scientific Exploration",
+    "finding": "Reviewed the project's September 11 analyses and questioned the data processing, the prediction registry, and cumulative-sum plots.",
+    "verdict": "Rated the cogency of the results as low.",
+    "url": "https://noosphere.princeton.edu/papers/jseScargle.pdf"
+   }
+  ],
+  "kind": "Mind over matter"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "dead",
+  "claim": "Did you know… a dog can sense when its owner starts heading home?",
+  "studies": [
+   {
+    "cite": "Wiseman, Smith & Milton (1998), British Journal of Psychology",
+    "finding": "Ran four experiments testing whether the dog Jaytee signaled at the window when his owner set off for home.",
+    "verdict": "Signals came early or not at all; proponent's pattern called a post hoc artifact.",
+    "url": "https://uhra.herts.ac.uk/id/eprint/2336/"
+   }
+  ],
+  "kind": "Impossible senses"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "shaky",
+  "claim": "Did you know… government-funded psychics described hidden targets better than chance?",
+  "studies": [
+   {
+    "cite": "Utts (1996), Journal of Scientific Exploration",
+    "finding": "Reviewed two decades of SRI and SAIC remote viewing research and concluded the results exceeded chance by wide margins.",
+    "verdict": "Presented as established by the author; contested by the other reviewer.",
+    "url": "https://psi-research-site.pages.dev/paper/utts_1996_assessment"
+   },
+   {
+    "cite": "Hyman (1996), Journal of Scientific Exploration",
+    "finding": "Evaluated the same program and argued that the conclusion was premature and that findings lacked independent replication.",
+    "verdict": "Called apparent consistency with other psi research possibly illusory; unresolved.",
+    "url": "https://psi-research-site.pages.dev/paper/hyman_1996_evaluation"
+   }
+  ],
+  "kind": "Impossible senses"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "shaky",
+  "claim": "Did you know… the body reacts a few seconds before a random event?",
+  "studies": [
+   {
+    "cite": "Mossbridge, Tressoldi & Utts (2012), Frontiers in Psychology",
+    "finding": "Meta-analyzed 26 reports from seven laboratories and found a small anticipatory physiological effect, effect size 0.21, before unpredictable stimuli.",
+    "verdict": "Authors concede flexible analyses and exclusions; independent replications are still needed.",
+    "url": "https://doi.org/10.3389/fpsyg.2012.00390"
+   }
+  ],
+  "kind": "Impossible senses"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "dead",
+  "claim": "Did you know… astrologers can match a birth chart to a personality profile?",
+  "studies": [
+   {
+    "cite": "Carlson (1985), Nature",
+    "finding": "Two double-blind experiments tested whether astrologers could match natal charts to personality profiles of unseen subjects.",
+    "verdict": "Matches stayed near the 33% chance rate, below astrologers' own predicted 50%.",
+    "url": "https://doi.org/10.1038/318419a0"
+   }
+  ],
+  "kind": "Hidden destiny"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "dead",
+  "claim": "Did you know… the full moon drives up births, crime and psychiatric trouble?",
+  "studies": [
+   {
+    "cite": "Rotton & Kelly (1985), Psychological Bulletin",
+    "finding": "Meta-analyzed 37 lunar studies and found moon phase accounted for no more than about 1% of variance in behavior.",
+    "verdict": "The lunar hypothesis failed tests of replicability and predictability.",
+    "url": "https://doi.org/10.1037/0033-2909.97.2.286"
+   },
+   {
+    "cite": "Waldhoer, Haidinger & Vutuc (2002), Gynecologic and Obstetric Investigation",
+    "finding": "Analyzed 2,760,362 Austrian births across 371 lunar cycles for a relationship between lunar phase and delivery numbers.",
+    "verdict": "No significant lunar effect, even adjusting for parity and gestation.",
+    "url": "https://doi.org/10.1159/000052999"
+   }
+  ],
+  "kind": "Spooky correlations"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "shaky",
+  "claim": "Did you know… dog bites surge when the moon is full?",
+  "studies": [
+   {
+    "cite": "Bhattacharjee et al. (2000), BMJ",
+    "finding": "Found animal-bite attendances at one English emergency department (1,621 patients, 1997-99) rose significantly around the full moon.",
+    "verdict": "A single-hospital finding; a rival analysis in the same issue disagreed.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC27561"
+   },
+   {
+    "cite": "Chapman & Morrell (2000), BMJ",
+    "finding": "Examined 1,671 dog-bite hospital admissions from 1997 to 1998 and found none of the 18 peak days fell on a full moon.",
+    "verdict": "No full-moon link; the largest peak was around New Year.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC27562"
+   }
+  ],
+  "kind": "Spooky correlations"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "standing",
+  "claim": "Did you know… one identical personality sketch fits every student, rated 4.26 of 5?",
+  "studies": [
+   {
+    "cite": "Forer (1949), Journal of Abnormal and Social Psychology",
+    "finding": "Gave every student the same generic personality sketch and asked them to rate its accuracy; the class average was about 4.26 out of 5.",
+    "verdict": "Replicated for decades; effect appears in everyday horoscopes and readings.",
+    "url": "https://doi.org/10.1037/h0059240"
+   },
+   {
+    "cite": "Dickson & Kelly (1985), Psychological Reports",
+    "finding": "Reviewed the Barnum literature, finding generic profiles are accepted more readily when labeled as personal and when favorable.",
+    "verdict": "Review supports the general finding across studies, mostly with college students.",
+    "url": "https://doi.org/10.2466/pr0.1985.57.2.367"
+   }
+  ],
+  "kind": "Your senses lie"
+ },
+ {
+  "field": "The paranormal",
+  "verdict": "standing",
+  "claim": "Did you know… healthy people can be made to feel outside their bodies?",
+  "studies": [
+   {
+    "cite": "Ehrsson (2007), Science",
+    "finding": "Synchronized touch and a first-person camera view made volunteers feel located outside their own body, with skin-conductance responses to threat.",
+    "verdict": "Small samples, but the illusion is regularly reproduced in the lab.",
+    "url": "https://doi.org/10.1126/science.1142175"
+   },
+   {
+    "cite": "Lenggenhager et al. (2007), Science",
+    "finding": "Used virtual reality with conflicting visual and touch input so participants felt a virtual body was theirs and mislocated themselves.",
+    "verdict": "Bodily self-location is now studied experimentally as multisensory processing.",
+    "url": "https://doi.org/10.1126/science.1143439"
+   },
+   {
+    "cite": "Petkova & Ehrsson (2008), PLoS ONE",
+    "finding": "Reported a perceptual illusion of swapping bodies with another body viewed from a first-person perspective.",
+    "verdict": "Extended the effect to full body-swapping; the same laboratory's work.",
+    "url": "https://doi.org/10.1371/journal.pone.0003832"
+   }
+  ],
+  "kind": "Your senses lie"
+ }
+]

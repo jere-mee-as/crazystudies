@@ -1,0 +1,132 @@
+[
+ {
+  "field": "Medicine",
+  "kind": "Backwards medicine",
+  "verdict": "misread",
+  "claim": "Did you know… parachutes do not prevent death when jumping from aircraft?",
+  "studies": [
+   {
+    "cite": "Yeh et al. (2018), BMJ",
+    "finding": "A randomized trial found no deaths or major injuries in either parachute or empty-backpack jumpers leaving an aircraft.",
+    "verdict": "Real result, but the planes were parked, 0.6 metres up.",
+    "url": "https://doi.org/10.1136/bmj.k5094"
+   }
+  ]
+ },
+ {
+  "field": "Medicine",
+  "kind": "Backwards medicine",
+  "verdict": "shaky",
+  "claim": "Did you know… high-risk heart failure patients do better when cardiologists are away?",
+  "studies": [
+   {
+    "cite": "Jena et al. (2015), JAMA Internal Medicine",
+    "finding": "Thirty-day mortality for high-risk heart failure and cardiac arrest was lower on dates of national cardiology meetings, in teaching hospitals.",
+    "verdict": "Single observational study; benefit limited to teaching hospitals.",
+    "url": "https://read.qxmd.com/read/25531231/mortality-and-treatment-patterns-among-patients-hospitalized-with-acute-cardiovascular-conditions-during-dates-of-national-cardiology-meetings"
+   }
+  ]
+ },
+ {
+  "field": "Medicine",
+  "kind": "Hidden destiny",
+  "verdict": "misread",
+  "claim": "Did you know… left-handed people die years earlier than right-handed people?",
+  "studies": [
+   {
+    "cite": "Halpern & Coren (1991), New England Journal of Medicine",
+    "finding": "A letter reported that left-handers in a sample of deaths had died markedly younger than right-handers.",
+    "verdict": "Published as a short letter reporting a survival disadvantage.",
+    "url": "https://doi.org/10.1056/nejm199104043241418"
+   },
+   {
+    "cite": "Harris (1993), Psychological Bulletin",
+    "finding": "A long commentary reviewed the early-death argument and found the evidence could not sustain it.",
+    "verdict": "Conclusion: the decreased-survival hypothesis does not hold up.",
+    "url": "https://doi.org/10.1037/0033-2909.114.2.203"
+   },
+   {
+    "cite": "Aggleton et al. (1993), Journal of Epidemiology and Community Health",
+    "finding": "Among deceased first-class cricketers, left-handers lived about 25 months less, partly through more accidental and war deaths.",
+    "verdict": "A small gap, much of it from accidents and war.",
+    "url": "https://doi.org/10.1136/jech.47.3.206"
+   }
+  ]
+ },
+ {
+  "field": "Medicine",
+  "kind": "Mind over matter",
+  "verdict": "standing",
+  "claim": "Did you know… fake knee surgery relieved arthritis pain as well as real surgery?",
+  "studies": [
+   {
+    "cite": "Moseley et al. (2002), New England Journal of Medicine",
+    "finding": "In 180 patients, arthroscopic lavage and debridement did no better than a placebo operation.",
+    "verdict": "Confidence intervals excluded any clinically meaningful difference from placebo.",
+    "url": "https://doi.org/10.1056/NEJMoa013259"
+   }
+  ]
+ },
+ {
+  "field": "Medicine",
+  "kind": "Vices are good for you",
+  "verdict": "standing",
+  "claim": "Did you know… a doctor cracked one hand's knuckles for fifty years as an experiment?",
+  "studies": [
+   {
+    "cite": "Unger (1998), Arthritis & Rheumatism",
+    "finding": "A physician cracked the knuckles of his left hand for about fifty years and left his right hand alone; neither developed arthritis.",
+    "verdict": "A single-person letter, not a proof on its own.",
+    "url": "https://www.futilitycloset.com/2012/03/29/wise-cracks/"
+   },
+   {
+    "cite": "deWeber et al. (2011), Journal of the American Board of Family Medicine",
+    "finding": "In 215 people, hand osteoarthritis appeared in 18.1% of habitual knuckle crackers and 21.5% of non-crackers.",
+    "verdict": "Case-control study agrees: no link between cracking and hand osteoarthritis.",
+    "url": "https://doi.org/10.3122/jabfm.2011.02.100156"
+   }
+  ]
+ },
+ {
+  "field": "Medicine",
+  "kind": "Spooky correlations",
+  "verdict": "shaky",
+  "claim": "Did you know… patients operated on by their surgeon on the surgeon's birthday die more often?",
+  "studies": [
+   {
+    "cite": "Kato et al. (2020), BMJ",
+    "finding": "Among Medicare patients over 65, 30-day mortality after emergency surgery was 6.9% on the surgeon's birthday versus 5.6% on other days.",
+    "verdict": "Observational, only 2,064 birthday cases; the authors could not identify a mechanism.",
+    "url": "https://doi.org/10.1136/bmj.m4381"
+   }
+  ]
+ },
+ {
+  "field": "Medicine",
+  "kind": "Everyday killers",
+  "verdict": "shaky",
+  "claim": "Did you know… the Monday after clocks spring forward brings 24% more heart attacks?",
+  "studies": [
+   {
+    "cite": "Sandhu et al. (2014), Open Heart",
+    "finding": "In Michigan, angioplasty-treated heart attacks rose 24% the Monday after the spring change and fell 21% the Tuesday after the fall change.",
+    "verdict": "Authors saw shifted timing, not higher totals, with no correction for multiple comparisons.",
+    "url": "https://openheart.bmj.com/content/1/1/e000019"
+   }
+  ]
+ },
+ {
+  "field": "Medicine",
+  "kind": "Mind over matter",
+  "verdict": "standing",
+  "claim": "Did you know… most statin side effects also occur when patients take a placebo?",
+  "studies": [
+   {
+    "cite": "Wood et al. (2020), New England Journal of Medicine",
+    "finding": "Patients who had quit statins over side effects scored similar symptoms on atorvastatin (16.3) and placebo (15.4) in a 12-month n-of-1 trial.",
+    "verdict": "Small trial; about 90% of the symptom burden also came with placebo.",
+    "url": "https://doi.org/10.1056/NEJMc2031173"
+   }
+  ]
+ }
+]

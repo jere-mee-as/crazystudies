@@ -1,0 +1,48 @@
+[
+ {"field":"Animals","kind":"Beasts with brains","verdict":"misread",
+  "claim":"Did you know… a Berlin horse could do arithmetic by tapping its hoof?",
+  "studies":[{"cite":"Pfungst (1907), Der kluge Hans (Eng. transl. 1911)","finding":"Systematic tests showed the horse answered by reading involuntary head and body movements of whoever asked, and failed when it could not see them.","verdict":"Horse was real and skilled; the skill was reading people, not arithmetic.","url":"https://gutenberg.org/cache/epub/33936/pg33936-images.html"}]},
+ {"field":"Animals","kind":"Impossible senses","verdict":"shaky",
+  "claim":"Did you know… cattle worldwide tend to graze facing north or south?",
+  "studies":[
+   {"cite":"Begall et al. (2008), PNAS","finding":"Satellite images of thousands of cattle, plus field observations of cattle and deer, showed bodies aligned roughly north-south, tracking magnetic rather than geographic north.","verdict":"Provocative; independent groups did not reproduce it from similar images.","url":"https://doi.org/10.1073/pnas.0803650105"},
+   {"cite":"Hert et al. (2011), J Comp Physiol A","finding":"Using Google satellite photos of 3,412 cattle in European herds, two independent groups found no alignment with geomagnetic field lines.","verdict":"Failure to reproduce, with image quality and observer bias suggested as causes.","url":"https://doi.org/10.1007/s00359-011-0628-7"},
+   {"cite":"Begall et al. (2011), J Comp Physiol A","finding":"Reanalysis of the Hert data, after discarding unusable images, found a north-south axis, stronger in lying cattle.","verdict":"Authors of the original claim rebutting; no neutral resolution.","url":"https://doi.org/10.1007/s00359-011-0674-1"}]},
+ {"field":"Animals","kind":"Impossible senses","verdict":"shaky",
+  "claim":"Did you know… dogs prefer to face north or south when they defecate?",
+  "studies":[
+   {"cite":"Hart et al. (2013), Frontiers in Zoology","finding":"In 70 dogs, body axis during excretion lined up north-south, but only when the magnetic field was calm.","verdict":"Observational and post hoc condition; later independent attempt did not reproduce it.","url":"https://doi.org/10.1186/1742-9994-10-80"},
+   {"cite":"Rouviere & Ruxton (2021), J Vet Behav","finding":"Repeating a later park-based dog study at five Lyon parks, the authors measured dog orientation during urination and defecation.","verdict":"No magnetic alignment found; dogs oriented to park layout instead.","url":"https://doi.org/10.1016/j.jveb.2021.11.005"}]},
+ {"field":"Animals","kind":"Beasts with brains","verdict":"standing",
+  "claim":"Did you know… a dog's guilty look is a response to scolding, not guilt?",
+  "studies":[{"cite":"Horowitz (2009), Behavioural Processes","finding":"In 14 dogs, guilty-look behaviours followed the owner's scolding, whether or not the dog had actually eaten the forbidden treat.","verdict":"Result stands; it does not rule out guilt, only finds no evidence of it.","url":"https://doi.org/10.1016/j.beproc.2009.03.014"}]},
+ {"field":"Animals","kind":"Beasts with brains","verdict":"dead",
+  "claim":"Did you know… a chimpanzee learned sign language well enough to build sentences?",
+  "studies":[{"cite":"Terrace et al. (1979), Science","finding":"Analysis of over 19,000 multi-sign utterances by the chimpanzee Nim found most were prompted by his teacher's preceding signs, with frequent interruptions.","verdict":"Project's own reanalysis: no evidence of grammar; ape-language claims largely abandoned.","url":"https://doi.org/10.1126/science.504995"}]},
+ {"field":"Animals","kind":"Beasts with brains","verdict":"shaky",
+  "claim":"Did you know… fish feel pain much as mammals do?",
+  "studies":[
+   {"cite":"Sneddon et al. (2003), Proc R Soc B","finding":"Rainbow trout had nociceptors on the head, and acid applied to the lips changed breathing rate, delayed feeding and produced unusual behaviour.","verdict":"Nociception established; whether it is felt as pain remains disputed.","url":"https://doi.org/10.1098/rspb.2003.2349"},
+   {"cite":"Key (2016), Animal Sentience","finding":"Argued that fish lack the cortex-like structure and connectivity that human pain experience depends on, so behaviour does not show pain.","verdict":"Contested in published commentaries; no consensus reached.","url":"https://doi.org/10.51291/2377-7478.1011"}]},
+ {"field":"Animals","kind":"You’re not in control","verdict":"shaky",
+  "claim":"Did you know… a parasite makes rats attracted to the smell of cats?",
+  "studies":[
+   {"cite":"Berdoy et al. (2000), Proc R Soc B","finding":"Rats infected with Toxoplasma gondii lost their usual avoidance of cat-scented areas, and some were drawn to them.","verdict":"Influential, but later experiments gave inconsistent results across labs.","url":"https://doi.org/10.1098/rspb.2000.1182"},
+   {"cite":"Vyas et al. (2007), PNAS","finding":"Infection turned rodents' innate aversion to feline odour into attraction, without impairing learned fear or other tests.","verdict":"Supports a specific effect in the original design.","url":"https://doi.org/10.1073/pnas.0608310104"},
+   {"cite":"Worth et al. (2014), Adv Parasitol","finding":"Review of rodent experiments on Toxoplasma and behaviour found no consistent direction or size of effects across studies.","verdict":"Evidence mixed; strain, species and test methods differ.","url":"https://doi.org/10.1016/B978-0-12-800182-0.00003-9"}]},
+ {"field":"Animals","kind":"Spooky correlations","verdict":"misread",
+  "claim":"Did you know… pigeons fed at random develop superstitions?",
+  "studies":[
+   {"cite":"Skinner (1948), J Exp Psychol","finding":"Pigeons given food at fixed intervals regardless of behaviour developed repeated rituals in six of eight birds, read as accidental reinforcement.","verdict":"Observation real; the accidental-reinforcement explanation was challenged.","url":"https://www.bfskinner.org/wp-content/uploads/2022/02/Superstition-in-the-pigeon.pdf"},
+   {"cite":"Staddon & Simmelhag (1971), Psychological Review","finding":"A reexamination of the superstition experiment, observing pigeons' behaviour in detail between food deliveries.","verdict":"Reinterpreted as food-timed, species-typical behaviour, not learned superstition.","url":"https://doi.org/10.1037/h0030305"}]},
+ {"field":"Animals","kind":"Beasts with brains","verdict":"standing",
+  "claim":"Did you know… wild crows remember human faces and pass the grudge on?",
+  "studies":[
+   {"cite":"Cornell et al. (2012), Proc R Soc B","finding":"Crows trapped by a masked person scolded that mask later, and so did crows never captured, including young taught by parents.","verdict":"Field result; learning spread socially across years and kilometres.","url":"https://doi.org/10.1098/rspb.2011.0957"},
+   {"cite":"Marzluff et al. (2012), PNAS","finding":"Brain imaging of wild crows showed threatening faces activated fear-related regions, and caring faces activated motivation regions.","verdict":"Neural evidence consistent with face recognition.","url":"https://doi.org/10.1073/pnas.1206109109"}]},
+ {"field":"Animals","kind":"Beasts with brains","verdict":"standing",
+  "claim":"Did you know… rats laugh when tickled?",
+  "studies":[
+   {"cite":"Panksepp & Burgdorf (2003), Physiology & Behavior","finding":"Rats emit ultrasonic 50-kHz chirps during play and tickling, proposed as a primitive form of laughter.","verdict":"Framework later supported by neural recordings.","url":"https://doi.org/10.1016/S0031-9384(03)00159-8"},
+   {"cite":"Ishiyama & Brecht (2016), Science","finding":"Tickled rats produced laughter-calls and joy jumps, and somatosensory cortex cells responded to tickling and play.","verdict":"Brain activity tracked ticklishness; anxiety suppressed both.","url":"https://doi.org/10.1126/science.aah5114"}]}
+]

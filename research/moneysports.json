@@ -1,0 +1,190 @@
+[
+ {
+  "field": "Money & sports",
+  "kind": "Spooky correlations",
+  "verdict": "standing",
+  "claim": "Did you know… stock market anomalies fade once an academic paper publishes them?",
+  "studies": [
+   {
+    "cite": "McLean & Pontiff (2016), Journal of Finance",
+    "finding": "Published stock-return predictors earned less after publication than in their original samples, as if investors read the papers.",
+    "verdict": "Reported 26% lower out of sample and 58% lower after publication.",
+    "url": "https://doi.org/10.1111/jofi.12365"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "Markets have moods",
+  "verdict": "shaky",
+  "claim": "Did you know… sunny mornings lift stock returns in the nearest stock exchange city?",
+  "studies": [
+   {
+    "cite": "Hirshleifer & Shumway (2003), Journal of Finance",
+    "finding": "Morning sunshine in each exchange city correlated with daily index returns in 26 countries from 1982 to 1997.",
+    "verdict": "Authors say modest trading costs erase the gains from trading on it.",
+    "url": "https://doi.org/10.1111/1540-6261.00556"
+   },
+   {
+    "cite": "Loughran & Schultz (2004), Journal of Financial and Quantitative Analysis",
+    "finding": "Cloud cover near a firm's headquarters had little effect on its returns and created no profitable trades.",
+    "verdict": "Local-weather test finds almost nothing; the question stays contested.",
+    "url": "https://ideas.repec.org/a/cup/jfinqa/v39y2004i02p343-364_00.html"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "Markets have moods",
+  "verdict": "shaky",
+  "claim": "Did you know… a national team's World Cup loss drags down its stock market?",
+  "studies": [
+   {
+    "cite": "Edmans, García & Norli (2007), Journal of Finance",
+    "finding": "A country's stocks fell the next day after its national team lost, with an elimination from the World Cup near -0.5%.",
+    "verdict": "Original result; one later firm-level test found it disappears under panel controls.",
+    "url": "https://doi.org/10.1111/j.1540-6261.2007.01262.x"
+   },
+   {
+    "cite": "Fung et al. (2015), Journal of International Financial Markets, Institutions and Money",
+    "finding": "Turkish firm-level data reproduced the loss effect with the original method, then lost it under panel models with spatial and time controls.",
+    "verdict": "Effect did not survive the stricter specification in this market.",
+    "url": "https://econpapers.repec.org/RePEc:eee:intfin:v:34:y:2015:i:c:p:337-355"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "Markets have moods",
+  "verdict": "shaky",
+  "claim": "Did you know… switching to daylight saving time makes stocks slump on Monday?",
+  "studies": [
+   {
+    "cite": "Kamstra, Kramer & Levi (2000), American Economic Review",
+    "finding": "The weekend effect on Monday returns was larger after the two weekends when clocks change, attributed to lost sleep.",
+    "verdict": "Original claim; its size and significance were disputed.",
+    "url": "https://doi.org/10.1257/aer.90.4.1005"
+   },
+   {
+    "cite": "Pinegar (2002), American Economic Review",
+    "finding": "A published comment disputing the daylight saving anomaly, answered by Kamstra, Kramer and Levi in the same issue.",
+    "verdict": "Contested from the start; the original authors replied.",
+    "url": "https://doi.org/10.1257/00028280260344786"
+   },
+   {
+    "cite": "Lamb, Zuber & Gandar (2004), Applied Financial Economics",
+    "finding": "A re-examination found the effect inconsistent and smaller and less significant than originally reported.",
+    "verdict": "Second critique; the anomaly is usually treated as unconfirmed.",
+    "url": "https://doi.org/10.1080/09603100410001673676"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "Justice isn’t blind",
+  "verdict": "standing",
+  "claim": "Did you know… sumo wrestlers throw matches for each other, and the data show it?",
+  "studies": [
+   {
+    "cite": "Duggan & Levitt (2002), American Economic Review",
+    "finding": "Wrestlers needing one win for a winning record won far more often than expected, and then lost the rematch.",
+    "verdict": "Authors found the rigging pattern vanished during periods of media scrutiny.",
+    "url": "https://doi.org/10.1257/000282802762024665"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "Tiny trick, huge effect",
+  "verdict": "shaky",
+  "claim": "Did you know… Olympic fighters wearing red win more often than those in blue?",
+  "studies": [
+   {
+    "cite": "Hill & Barton (2005), Nature",
+    "finding": "In four Olympic combat sports in 2004, red outcompeted blue, with the edge concentrated in evenly matched bouts.",
+    "verdict": "Borderline p-value (0.041); a single Olympics.",
+    "url": "https://doi.org/10.1038/435293a"
+   },
+   {
+    "cite": "Apollaro et al. (2023), Scientific Reports",
+    "finding": "Twenty years of Olympic taekwondo showed a red edge for men under manual scoring but no overall colour effect under electronic scoring.",
+    "verdict": "Effect looks like referee bias that fades when judgment is automated.",
+    "url": "https://doi.org/10.1038/s41598-023-49103-3"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "You’re not in control",
+  "verdict": "dead",
+  "claim": "Did you know… lottery winners end up no happier than anyone else?",
+  "studies": [
+   {
+    "cite": "Brickman, Coates & Janoff-Bulman (1978), Journal of Personality and Social Psychology",
+    "finding": "Twenty-two lottery winners rated their happiness about the same as 22 controls; accident victims scored lower.",
+    "verdict": "Tiny, one-time sample that became the textbook 'hedonic treadmill' example.",
+    "url": "https://worlddatabaseofhappiness.eur.nl/correlational-findings/413"
+   },
+   {
+    "cite": "Lindqvist, Östling & Cesarini (2020), Review of Economic Studies",
+    "finding": "Swedish lottery winners surveyed 5 to 22 years later reported lasting gains in life satisfaction compared with matched controls.",
+    "verdict": "Large sample overturns the no-effect story; happiness effects were smaller.",
+    "url": "https://doi.org/10.1093/restud/rdaa006"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "Hidden destiny",
+  "verdict": "standing",
+  "claim": "Did you know… professional hockey players are mostly born in January through March?",
+  "studies": [
+   {
+    "cite": "Barnsley, Thompson & Barnsley (1985), CAHPER Journal",
+    "finding": "NHL, WHL and OHL players showed a steady decline in numbers from January births to December births.",
+    "verdict": "Original observation of the relative age effect; holds across later studies.",
+    "url": "https://phecanada.ca/professional-learning/journal/hockey-success-and-birthdate-relative-age-effect"
+   },
+   {
+    "cite": "Musch & Grondin (2001), Developmental Review",
+    "finding": "A review found birthdate skews in youth and professional leagues worldwide, in many though not all sports.",
+    "verdict": "Review confirms the pattern, tied to age-group cutoffs rather than talent.",
+    "url": "https://lida.sport-iat.de/ta/Record/4024953"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "Justice isn’t blind",
+  "verdict": "standing",
+  "claim": "Did you know… referees gave visiting teams fewer yellow cards when stadiums were empty?",
+  "studies": [
+   {
+    "cite": "Bryson et al. (2021), Economics Letters",
+    "finding": "In crowdless 2019/20 football matches, away teams received fewer yellow cards, shrinking home advantage.",
+    "verdict": "Natural experiment from the pandemic; effect on cards was large.",
+    "url": "https://doi.org/10.1016/j.econlet.2020.109664"
+   },
+   {
+    "cite": "Leitner et al. (2023), Management Review Quarterly",
+    "finding": "A review of ghost-game studies found home advantage fell, attributed mainly to less referee bias and less fan support.",
+    "verdict": "No reviewed study found home advantage rising.",
+    "url": "https://doi.org/10.1007/s11301-021-00254-5"
+   }
+  ]
+ },
+ {
+  "field": "Money & sports",
+  "kind": "Your senses lie",
+  "verdict": "standing",
+  "claim": "Did you know… NFL teams overpay for high draft picks, and have for decades?",
+  "studies": [
+   {
+    "cite": "Massey & Thaler (2013), Management Science",
+    "finding": "Early draft picks were priced well above the surplus value their players actually delivered, despite experienced decision makers.",
+    "verdict": "Archival result; no later study located here that overturns it.",
+    "url": "https://doi.org/10.1287/mnsc.1120.1657"
+   }
+  ]
+ }
+]

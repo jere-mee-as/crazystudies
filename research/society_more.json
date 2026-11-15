@@ -1,0 +1,70 @@
+[
+ {
+  "field": "Economics & society",
+  "kind": "Hidden destiny",
+  "verdict": "shaky",
+  "claim": "Did you know… distinctively Black names do not hurt life outcomes?",
+  "studies": [
+   {
+    "cite": "Fryer & Levitt (2004), Quarterly Journal of Economics",
+    "finding": "Using California birth records, the authors found no negative causal effect of a distinctively Black first name on later life outcomes once background was controlled.",
+    "verdict": "Conflicts with résumé audit studies; the picture remains contested.",
+    "url": "https://doi.org/10.3386/w9938"
+   }
+  ]
+ },
+ {
+  "field": "Economics & society",
+  "kind": "Justice isn’t blind",
+  "verdict": "shaky",
+  "claim": "Did you know… the clock change makes judges hand down longer sentences?",
+  "studies": [
+   {
+    "cite": "Cho, Barnes & Guanara (2017), Psychological Science",
+    "finding": "Federal judges gave longer sentences on the Monday after the spring clock change, which the authors attributed to lost sleep.",
+    "verdict": "Seen as sensitive to the model used.",
+    "url": "https://doi.org/10.1177/0956797616678437"
+   },
+   {
+    "cite": "Spamann (2018), Psychological Science",
+    "finding": "A reanalysis found the effect depended on control variables and was absent in data from 2004 to 2016.",
+    "verdict": "Comment disputes the result; original not confirmed.",
+    "url": "https://doi.org/10.1177/0956797617720239"
+   }
+  ]
+ },
+ {
+  "field": "Economics & society",
+  "kind": "You’re not in control",
+  "verdict": "shaky",
+  "claim": "Did you know… violent video games make players more aggressive?",
+  "studies": [
+   {
+    "cite": "Anderson et al. (2010), Psychological Bulletin",
+    "finding": "A meta-analysis of experimental, cross-sectional and longitudinal studies in Eastern and Western countries linked violent game play to higher aggression.",
+    "verdict": "Large literature, but effect size is disputed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20192553/"
+   },
+   {
+    "cite": "Ferguson (2015), Perspectives on Psychological Science",
+    "finding": "A meta-analysis of 101 studies of youth found a very small aggression effect, r = .06, and flagged publication bias.",
+    "verdict": "Smaller estimate; the two camps still disagree.",
+    "url": "https://doi.org/10.1177/1745691615592234"
+   }
+  ]
+ },
+ {
+  "field": "Economics & society",
+  "kind": "Spooky correlations",
+  "verdict": "misread",
+  "claim": "Did you know… graffiti and litter in a neighbourhood lead to violent crime?",
+  "studies": [
+   {
+    "cite": "Sampson & Raudenbush (1999), American Journal of Sociology",
+    "finding": "Rating over 23,000 Chicago street segments, the authors found disorder and crime were correlated, but both tracked neighbourhood collective efficacy.",
+    "verdict": "Link between disorder and crime was largely spurious, except possibly robbery.",
+    "url": "https://dash.harvard.edu/entities/publication/73120378-8268-6bd4-e053-0100007fdf3b"
+   }
+  ]
+ }
+]

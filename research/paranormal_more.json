@@ -1,0 +1,70 @@
+[
+ {
+  "field": "The paranormal",
+  "kind": "Mind over matter",
+  "verdict": "dead",
+  "claim": "Did you know… strangers' distant healing helped patients with advanced AIDS?",
+  "studies": [
+   {
+    "cite": "Sicher et al. (1998), Western Journal of Medicine",
+    "finding": "In 40 patients with advanced AIDS, ten weeks of distant healing was followed by fewer new illnesses and hospital days.",
+    "verdict": "Small trial; a later larger one found nothing.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1305403"
+   },
+   {
+    "cite": "Astin et al. (2006), Alternative Therapies in Health and Medicine",
+    "finding": "A randomized trial of 156 HIV/AIDS patients found no effect of distant healing on any primary or secondary outcome.",
+    "verdict": "Replication in 156 patients: no effect.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17131980/"
+   }
+  ]
+ },
+ {
+  "field": "The paranormal",
+  "kind": "Impossible senses",
+  "verdict": "shaky",
+  "claim": "Did you know… you can feel when someone is staring at you?",
+  "studies": [
+   {
+    "cite": "Schmidt et al. (2004), British Journal of Psychology",
+    "finding": "A meta-analysis of 15 remote-staring experiments found a small mean effect on skin conductance, d = 0.13.",
+    "verdict": "Authors saw hints of an effect but few independent replications.",
+    "url": "https://doi.org/10.1348/000712604773952449"
+   },
+   {
+    "cite": "Colwell, Schröder & Sladen (2000), British Journal of Psychology",
+    "finding": "Accuracy beat chance only with feedback on non-random trial sequences; with truly random sequences, accuracy fell to chance.",
+    "verdict": "Pattern learning, not a staring sense.",
+    "url": "https://doi.org/10.1348/000712600161682"
+   }
+  ]
+ },
+ {
+  "field": "The paranormal",
+  "kind": "Impossible senses",
+  "verdict": "shaky",
+  "claim": "Did you know… dying patients float out of their bodies and see hidden images?",
+  "studies": [
+   {
+    "cite": "Parnia et al. (2014), Resuscitation",
+    "finding": "Across 2,060 cardiac arrests, 2% of 101 interviewed survivors described awareness of the resuscitation, and images were placed on high shelves to test it.",
+    "verdict": "No patient reported the hidden images; test inconclusive.",
+    "url": "https://doi.org/10.1016/j.resuscitation.2014.09.004"
+   }
+  ]
+ },
+ {
+  "field": "The paranormal",
+  "kind": "Impossible senses",
+  "verdict": "dead",
+  "claim": "Did you know… practitioners can feel a human energy field with their hands?",
+  "studies": [
+   {
+    "cite": "Rosa et al. (1998), JAMA",
+    "finding": "Twenty-one Therapeutic Touch practitioners tried to tell which of their hands the tester hovered over, behind a screen.",
+    "verdict": "Correct in 44% of 280 trials, below chance.",
+    "url": "https://doi.org/10.1001/jama.279.13.1005"
+   }
+  ]
+ }
+]

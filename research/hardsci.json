@@ -1,0 +1,238 @@
+[
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "dead",
+  "claim": "Did you know… neutrinos travelled faster than the speed of light?",
+  "studies": [
+   {
+    "cite": "OPERA Collaboration (2011), arXiv:1109.4897 (revised, JHEP 2012)",
+    "finding": "Muon neutrinos sent 730 km from CERN to Gran Sasso appeared to arrive about 60 nanoseconds ahead of light.",
+    "verdict": "Traced to a loose fibre-optic cable in the timing chain; revised result matches light speed.",
+    "url": "https://doi.org/10.1007/JHEP10(2012)093"
+   },
+   {
+    "cite": "Antonello et al. (2012), Physics Letters B",
+    "finding": "The ICARUS detector, on the same beam, timed its neutrino events and found them arriving at the speed of light.",
+    "verdict": "Independent measurement: no early arrival.",
+    "url": "https://doi.org/10.1016/j.physletb.2012.05.033"
+   }
+  ],
+  "kind": "Rewrite physics"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "dead",
+  "claim": "Did you know… telescope data at the South Pole revealed gravitational waves from the Big Bang?",
+  "studies": [
+   {
+    "cite": "BICEP2 Collaboration (2014), Physical Review Letters",
+    "finding": "Reported an excess of B-mode polarization in the microwave background, fit by a tensor-to-scalar ratio of 0.20.",
+    "verdict": "Honest error: galactic dust was not adequately modelled.",
+    "url": "https://doi.org/10.1103/PhysRevLett.112.241101"
+   },
+   {
+    "cite": "BICEP2/Keck and Planck Collaborations (2015), Physical Review Letters",
+    "finding": "Joint analysis with Planck dust maps found strong evidence for dust and no significant evidence for primordial tensor modes.",
+    "verdict": "Signal explained by dust; upper limit r < 0.12.",
+    "url": "https://doi.org/10.1103/PhysRevLett.114.101301"
+   }
+  ],
+  "kind": "Rewrite physics"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "dead",
+  "claim": "Did you know… a jar of palladium and heavy water produced nuclear fusion at room temperature?",
+  "studies": [
+   {
+    "cite": "Fleischmann & Pons (1989), Journal of Electroanalytical Chemistry",
+    "finding": "Reported excess heat and nuclear by-products from deuterium loaded into a palladium electrode, interpreted as fusion.",
+    "verdict": "Not reproduced under controlled conditions; effect not accepted by mainstream physics.",
+    "url": "https://doi.org/10.1016/0022-0728(89)80006-3"
+   },
+   {
+    "cite": "Williams et al. (1989), Nature",
+    "finding": "Ran three calorimeter designs with neutron and gamma detectors and found no support for the fusion claims.",
+    "verdict": "Identified spurious effects, such as detector noise and calibration errors, that could mimic fusion.",
+    "url": "https://www.nature.com/articles/342375a0"
+   }
+  ],
+  "kind": "Rewrite physics"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "dead",
+  "claim": "Did you know… a bacterium in Mono Lake builds its DNA from arsenic?",
+  "studies": [
+   {
+    "cite": "Wolfe-Simon et al. (2010), Science",
+    "finding": "Reported that strain GFAJ-1 could grow on arsenate in place of phosphate and incorporate arsenic into its DNA.",
+    "verdict": "Retracted by Science in July 2025 as unsupported by the data, without a finding of misconduct.",
+    "url": "https://doi.org/10.1126/science.1197258"
+   },
+   {
+    "cite": "Erb et al. (2012), Science",
+    "finding": "Found GFAJ-1 cannot grow without phosphate; its nucleic acids contained phosphorus, not arsenic.",
+    "verdict": "Replication failed: arsenate-resistant, but phosphate-dependent.",
+    "url": "https://doi.org/10.1126/science.1218455"
+   }
+  ],
+  "kind": "Life finds a way"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "dead",
+  "claim": "Did you know… a dead salmon in a brain scanner responded to photographs of human emotions?",
+  "studies": [
+   {
+    "cite": "Bennett et al. (2010), Journal of Serendipitous and Unexpected Results",
+    "finding": "A dead Atlantic salmon shown social photographs in an fMRI scanner displayed apparent activation without multiple-comparison correction.",
+    "verdict": "Activation vanished with correction; a demonstration of false positives, not a finding.",
+    "url": "https://www.scientificamerican.com/blog/scicurious-brain/ignobel-prize-in-neuroscience-the-dead-salmon-study/"
+   },
+   {
+    "cite": "Eklund, Nichols & Knutsson (2016), PNAS",
+    "finding": "Tested common fMRI cluster-inference software on resting-state data from real people and found inflated false-positive rates.",
+    "verdict": "Some widely used methods produced far more false positives than the nominal 5%.",
+    "url": "https://doi.org/10.1073/pnas.1602413113"
+   }
+  ],
+  "kind": "Spooky correlations"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "dead",
+  "claim": "Did you know… one gene variant decides whether stress makes you depressed?",
+  "studies": [
+   {
+    "cite": "Caspi et al. (2003), Science",
+    "finding": "In a New Zealand birth cohort, stressful life events predicted depression more strongly in carriers of the short 5-HTT promoter allele.",
+    "verdict": "Original candidate-gene by environment finding, widely cited.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12869766/"
+   },
+   {
+    "cite": "Border et al. (2019), American Journal of Psychiatry",
+    "finding": "Tested 18 candidate genes including 5-HTTLPR in samples of 62,000 to 443,000 people, with preregistered analyses.",
+    "verdict": "No support for main effects or gene-by-environment interactions; likely false positives.",
+    "url": "https://doi.org/10.1176/appi.ajp.2018.18070881"
+   }
+  ],
+  "kind": "Hidden destiny"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "dead",
+  "claim": "Did you know… scientists discovered a stable polymer form of water?",
+  "studies": [
+   {
+    "cite": "Rousseau & Porto (1970), Science",
+    "finding": "Infrared analysis of polywater samples found them heavily contaminated, with sodium and chlorine among the contaminants.",
+    "verdict": "Contamination explained the odd properties; no new form of water. Honest error.",
+    "url": "https://en.wikipedia.org/wiki/Polywater"
+   }
+  ],
+  "kind": "Rewrite physics"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "dead",
+  "claim": "Did you know… a new kind of invisible radiation makes sparks and screens glow brighter?",
+  "studies": [
+   {
+    "cite": "Wood (1904), Nature",
+    "finding": "Visiting the French laboratory that reported N-rays, Wood secretly removed a key prism and the observers still reported seeing them.",
+    "verdict": "Observer expectation, not radiation; N-rays do not exist.",
+    "url": "https://en.wikipedia.org/wiki/N_ray"
+   }
+  ],
+  "kind": "Rewrite physics"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "shaky",
+  "claim": "Did you know… mice inherit a fear of cherry blossom smell from their fathers?",
+  "studies": [
+   {
+    "cite": "Dias & Ressler (2014), Nature Neuroscience",
+    "finding": "Mice conditioned to fear an odour had offspring, and grand-offspring, more sensitive to that odour, with altered olfactory neuroanatomy.",
+    "verdict": "Reported, but its statistical consistency and mechanism are questioned.",
+    "url": "https://open.library.emory.edu/concern/publications/699e326e-d1a4-4e99-9f03-400ae78b166d"
+   },
+   {
+    "cite": "Francis (2014), Genetics",
+    "finding": "Calculated that ten of ten successful behavioural experiments in the paper was improbably consistent given its effect sizes.",
+    "verdict": "Raises possible unreported null results; authors replied that nothing was excluded.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25316784/"
+   }
+  ],
+  "kind": "Life finds a way"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "shaky",
+  "claim": "Did you know… pea plants learn to link a fan breeze with light?",
+  "studies": [
+   {
+    "cite": "Gagliano et al. (2016), Scientific Reports",
+    "finding": "Pea seedlings in a Y-maze grew toward the arm where a fan had predicted light, an apparent case of associative learning.",
+    "verdict": "Original report; a later replication did not find it.",
+    "url": "https://doi.org/10.1038/srep38427"
+   },
+   {
+    "cite": "Markel (2020), eLife",
+    "finding": "Replicated the design with a larger sample and blinded scoring and found no evidence of associative learning.",
+    "verdict": "Replication found no learning; original authors point to setup differences.",
+    "url": "https://doi.org/10.7554/eLife.57614"
+   }
+  ],
+  "kind": "Life finds a way"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "shaky",
+  "claim": "Did you know… your brain decides to move before you know you have decided?",
+  "studies": [
+   {
+    "cite": "Libet et al. (1983), Brain",
+    "finding": "A brain signal, the readiness potential, began hundreds of milliseconds before subjects' reported time of conscious intention to move.",
+    "verdict": "Taken for decades as evidence of unconscious decisions.",
+    "url": "https://doi.org/10.1093/brain/106.3.623"
+   },
+   {
+    "cite": "Schurger, Sitt & Dehaene (2012), PNAS",
+    "finding": "Modelled the readiness potential as accumulated random neural fluctuations that look like a ramp when averaged backward from movement.",
+    "verdict": "Challenges the reading; still debated.",
+    "url": "https://doi.org/10.1073/pnas.1210467109"
+   }
+  ],
+  "kind": "You’re not in control"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "standing",
+  "claim": "Did you know… microscopic animals can survive in the vacuum of outer space?",
+  "studies": [
+   {
+    "cite": "Jönsson et al. (2008), Current Biology",
+    "finding": "Dried tardigrades flown in low Earth orbit survived exposure to space vacuum, and some survived vacuum plus solar radiation.",
+    "verdict": "Vacuum survival reported; survival fell sharply under full solar UV.",
+    "url": "https://elib.dlr.de/55523/"
+   }
+  ],
+  "kind": "Life finds a way"
+ },
+ {
+  "field": "Physics, biology & brains",
+  "verdict": "standing",
+  "claim": "Did you know… distant particles stay correlated in ways no hidden variable can explain?",
+  "studies": [
+   {
+    "cite": "Hensen et al. (2015), Nature",
+    "finding": "Entangled electron spins 1.3 km apart violated a Bell inequality while closing the main loopholes, with S = 2.42.",
+    "verdict": "Closed the main loopholes; the result stands.",
+    "url": "https://doi.org/10.1038/nature15759"
+   }
+  ],
+  "kind": "Rewrite physics"
+ }
+]
