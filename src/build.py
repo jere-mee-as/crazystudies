@@ -59,12 +59,12 @@ KABOUT = {'Tiny trick, huge effect': 'about a tiny trick with a huge effect', 'Y
           'Rewrite physics': 'about rewriting physics', 'Life finds a way': 'about how life finds a way', 'Beasts with brains': 'about beasts with brains',
           'Markets have moods': 'about markets having moods', 'Aliens among us': 'about aliens among us'}
 byfield = tree([(n, n, i, FSTUDY[n]) for _, n, i in FIELDS], 'field', [(k, k, i, KABOUT.get(k, 'about ' + k[0].lower() + k[1:])) for k, i in KINDS], 'kind',
-               name=lambda tp: 'saying ' + tp['said'])
+               name=lambda tp: 'found ' + tp['said'])
 # the dead page reads as one sentence: "So you read a dead study, in psychology, saying …?"
-DEADN = {'dead': 'dead study', 'shaky': 'contested study', 'misread': 'misread study', 'standing': 'study that held up'}
+DEADN = {'dead': 'a dead study', 'shaky': 'a contested study', 'misread': 'a misread study', 'standing': 'a study that held up'}
 INF = {'Animals': 'about animals'}
 bydead = tree([(k, n, i, DEADN[k]) for k, n, i in VERD], 'verdict',
-              [(n, n, i, INF.get(n, 'in ' + n[0].lower() + n[1:])) for _, n, i in FIELDS], 'field', name=lambda tp: 'saying ' + tp['said'])
+              [(n, n, i, INF.get(n, 'in ' + n[0].lower() + n[1:])) for _, n, i in FIELDS], 'field', name=lambda tp: 'found ' + tp['said'])
 
 # third view: by issue. "Did you know you’re not in control, say the dead studies, Physics: Your brain decides…?"
 KDYK = {'Tiny trick, huge effect': 'a tiny trick has a huge effect', 'You’re not in control': 'you’re not in control', 'Your senses lie': 'your senses lie',
@@ -84,7 +84,7 @@ for k, i in KINDS:
     if not cs: continue
     ts = []
     for c in cs:
-        tp = topic(c); tp['t'] = SHORT[c['field']] + ': ' + tp['t']; del tp['said']; ts.append(tp)
+        tp = topic(c); tp['t'] = SHORT[c['field']] + ': ' + tp['t']; tp['s'] = 'like the ' + SHORT[c['field']].lower() + ' one that found ' + tp['said']; del tp['said']; ts.append(tp)
     e = {'n': k, 's': KDYK.get(k, k[0].lower() + k[1:]), 'i': i, 'u': [], 't': ts}
     for vk, vn, vi in VERD:
         ix = [j for j, c in enumerate(cs) if c['verdict'] == vk]
@@ -103,14 +103,16 @@ PAGES = [('index', 'by field'), ('dead', 'by how dead'), ('issues', 'by issue')]
 def FOOT(me):
     return ('<style>.foot a{text-decoration:none;color:var(--dim)}.foot a:hover,.foot b{color:var(--ink);font-weight:400}</style><span class="foot">Sort ' +
             ' · '.join(f'<b>{n}</b>' if k == me else f'<a href="{k}.html">{n}</a>' for k, n in PAGES) + '</span>')
+RND = '<script>var LEADR=[..."Did you know"].map(c=>Math.random()<.5?c.toUpperCase():c.toLowerCase()).join("");document.title=LEADR+"…"</script>'
+LEAD = "' + LEADR + '"   # spliced into the shell's JS string literals
 common = dict(key='cs', plurals={'study': 'studies', 'kind of crazy': 'kinds of crazy'}, theme='ink')
 out = os.path.join(here, '..')
-a = shell.build(byfield, os.path.join(out, 'index.html'), title='So you read…', lead='So you read', words=['field', 'kind of crazy', 'claim', 'study'], steps=['field', 'kind of crazy', 'claim', 'studies'],
-    foot=FOOT('index') + SUB, **common)
-b = shell.build(bydead, os.path.join(out, 'dead.html'), title='So you read a…', lead='So you read a', words=['verdict', 'field', 'claim', 'study'], steps=['verdict', 'field', 'claim', 'studies'],
-    foot=FOOT('dead') + SUB, **common)
-c3 = shell.build(bykind, os.path.join(out, 'issues.html'), title='Did you know…', lead='Did you know', words=['issue', 'verdict', 'claim', 'study'],
-    steps=['issue', 'verdict', 'claim', 'studies'], foot=FOOT('issues') + SUB, **common)
+a = shell.build(byfield, os.path.join(out, 'index.html'), title='Did you know…', lead=LEAD, words=['field', 'kind of crazy', 'claim', 'study'], steps=['field', 'kind of crazy', 'claim', 'studies'],
+    foot=RND + FOOT('index') + SUB, **common)
+b = shell.build(bydead, os.path.join(out, 'dead.html'), title='Did you know…', lead=LEAD, words=['verdict', 'field', 'claim', 'study'], steps=['verdict', 'field', 'claim', 'studies'],
+    foot=RND + FOOT('dead') + SUB, **common)
+c3 = shell.build(bykind, os.path.join(out, 'issues.html'), title='Did you know…', lead=LEAD, words=['issue', 'verdict', 'claim', 'study'],
+    steps=['issue', 'verdict', 'claim', 'studies'], foot=RND + FOOT('issues') + SUB, **common)
 print('built', a, b, c3)
 print(len(claims), 'claims,', sum(len(c['studies']) for c in claims), 'studies')
 print('by verdict', collections.Counter(c['verdict'] for c in claims))
