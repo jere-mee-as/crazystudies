@@ -92,7 +92,8 @@ for k, i in KINDS:
     bykind.append(e)
 
 # a subtitle under the opening heading (outline and sentence), hidden once you pick something or search
-SUB = ('<style>#outl .okids .okids{margin-left:40px}@media (max-width:760px){#outl .okids .okids{margin-left:30px}}.subt{color:var(--dim);font-size:17px;line-height:1.45;max-width:34em;margin:-14px 0 30px;font-style:italic}</style>'
+SUB = ('<style>#sent.nohov .ch:hover>.t{opacity:1!important}#sent.nohov .ch .hits{opacity:0!important;transform:translateY(-4px)!important}</style><script>addEventListener("DOMContentLoaded",()=>{const S=document.getElementById("sent");if(!S)return;let x=0,y=0;S.addEventListener("click",e=>{x=e.clientX;y=e.clientY;S.classList.add("nohov")},true);addEventListener("mousemove",e=>{if(S.classList.contains("nohov")&&Math.hypot(e.clientX-x,e.clientY-y)>4)S.classList.remove("nohov")})})</script>'
+       '<style>#outl .okids .okids{margin-left:40px}@media (max-width:760px){#outl .okids .okids{margin-left:30px}}.subt{color:var(--dim);font-size:17px;line-height:1.45;max-width:34em;margin:-14px 0 30px;font-style:italic}</style>'
        '<script>addEventListener("DOMContentLoaded",()=>{const t="Real, peer-reviewed studies with outrageous findings, and what became of them. '
        'Most did not survive. A few, unsettlingly, did.";["oh","sh"].forEach(id=>{const h=document.getElementById(id);if(!h)return;'
        'const s=document.createElement("div");s.className="subt";s.textContent=t;h.after(s);'
